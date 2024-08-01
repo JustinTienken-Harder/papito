@@ -1,0 +1,19 @@
+A         { text-decoration:none }
+A:link    { color:#0000FF; }
+A:visited { color:#0000FF; }
+A:active  { color:#FF0000; }
+A:hover   { color:#FF0000; }
+
+body { background-color:#FFFFFF; } 
+
+div               { color:#000000;        font-size:12px;       font-family:Arial, sans-serif; }
+div.title         { text-align: center;   font-size:16px;       font-weight: bold; }
+div.subtitle      { text-align: justify;  font-size:14px;   }
+div.item          { text-align: center; }
+div.photoDetails  { text-align: center;  font-size: 14px; }
+div.pageDetails   { text-align: center;  font-size: 10pt; }
+
+div.popUpHelp      {  position: absolute; background-color: #FFFFE0; border:1px solid; padding:2px; }
+tr.shortcutSection { font-family:Arial, sans-serif; font-size:14px; font-weight: bold; text-decoration: underline; text-align: left; color:#000000; }
+td.shortcutLabel   { font-family:Arial, sans-serif; font-size:12px; text-align: right; color:#000000; }
+td.shortcutKeys    { font-family:Arial, sans-serif; font-size:12px; text-align: left;  color:#000000; }
