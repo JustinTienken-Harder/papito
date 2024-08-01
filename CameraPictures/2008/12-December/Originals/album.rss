@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Originals</title>
+   	<link>../../..</link>
+        <generator>Jalbum 8.2</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>IMG_1450</title>
+            <link>slides/IMG_1450.html</link>
+            <pubDate>Tue, 19 May 2009 19:41:21 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1450.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1450.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12/22/08 6:37 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_1450.JPG</guid>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,2549 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Ruby</title>
+   	<link>../../..</link>
+        <generator>Jalbum 8.2</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>01</title>
+            <link>slides/01.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/01.jpg" width="124" height="92"/>
+            <media:content url="slides/01.jpg" width="711" height="533"/>
+            
+            <jalbum:exif originalDate="4/29/07 7:00 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/01.jpg</guid>
+        </item>
+        
+        <item>
+            <title>02</title>
+            <link>slides/02.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/02.jpg" width="123" height="100"/>
+            <media:content url="slides/02.jpg" width="611" height="493"/>
+            
+            <jalbum:exif originalDate="4/29/07 7:00 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/02.jpg</guid>
+        </item>
+        
+        <item>
+            <title>03</title>
+            <link>slides/03.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/03.jpg" width="124" height="107"/>
+            <media:content url="slides/03.jpg" width="613" height="533"/>
+            
+            <jalbum:exif originalDate="4/29/07 6:56 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/03.jpg</guid>
+        </item>
+        
+        <item>
+            <title>04</title>
+            <link>slides/04.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/04.jpg" width="104" height="124"/>
+            <media:content url="slides/04.jpg" width="359" height="428"/>
+            
+            <jalbum:exif originalDate="4/29/07 6:55 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/04.jpg</guid>
+        </item>
+        
+        <item>
+            <title>05</title>
+            <link>slides/05.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/05.jpg" width="124" height="93"/>
+            <media:content url="slides/05.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="4/29/07 6:54 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/05.jpg</guid>
+        </item>
+        
+        <item>
+            <title>06</title>
+            <link>slides/06.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/06.jpg" width="124" height="92"/>
+            <media:content url="slides/06.jpg" width="683" height="512"/>
+            
+            <jalbum:exif originalDate="4/29/07 6:53 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/06.jpg</guid>
+        </item>
+        
+        <item>
+            <title>07</title>
+            <link>slides/07.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/07.jpg" width="124" height="93"/>
+            <media:content url="slides/07.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="4/29/07 6:53 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/07.jpg</guid>
+        </item>
+        
+        <item>
+            <title>08</title>
+            <link>slides/08.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/08.jpg" width="96" height="124"/>
+            <media:content url="slides/08.jpg" width="304" height="389"/>
+            
+            <jalbum:exif originalDate="4/29/07 6:52 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/08.jpg</guid>
+        </item>
+        
+        <item>
+            <title>09</title>
+            <link>slides/09.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/09.jpg" width="61" height="124"/>
+            <media:content url="slides/09.jpg" width="388" height="788"/>
+            
+            <jalbum:exif originalDate="4/29/07 6:51 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/09.jpg</guid>
+        </item>
+        
+        <item>
+            <title>10</title>
+            <link>slides/10.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/10.jpg" width="124" height="92"/>
+            <media:content url="slides/10.jpg" width="711" height="533"/>
+            
+            <jalbum:exif originalDate="4/29/07 6:47 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/10.jpg</guid>
+        </item>
+        
+        <item>
+            <title>11</title>
+            <link>slides/11.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/11.jpg" width="124" height="92"/>
+            <media:content url="slides/11.jpg" width="711" height="533"/>
+            
+            <jalbum:exif originalDate="4/29/07 6:47 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/11.jpg</guid>
+        </item>
+        
+        <item>
+            <title>12</title>
+            <link>slides/12.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/12.jpg" width="124" height="92"/>
+            <media:content url="slides/12.jpg" width="711" height="533"/>
+            
+            <jalbum:exif originalDate="4/29/07 6:46 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/12.jpg</guid>
+        </item>
+        
+        <item>
+            <title>13</title>
+            <link>slides/13.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/13.jpg" width="124" height="92"/>
+            <media:content url="slides/13.jpg" width="711" height="533"/>
+            
+            <jalbum:exif originalDate="4/29/07 6:45 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/13.jpg</guid>
+        </item>
+        
+        <item>
+            <title>14</title>
+            <link>slides/14.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/14.jpg" width="124" height="92"/>
+            <media:content url="slides/14.jpg" width="711" height="533"/>
+            
+            <jalbum:exif originalDate="4/29/07 6:44 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/14.jpg</guid>
+        </item>
+        
+        <item>
+            <title>15</title>
+            <link>slides/15.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/15.jpg" width="124" height="92"/>
+            <media:content url="slides/15.jpg" width="711" height="533"/>
+            
+            <jalbum:exif originalDate="4/29/07 6:44 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/15.jpg</guid>
+        </item>
+        
+        <item>
+            <title>16</title>
+            <link>slides/16.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/16.jpg" width="124" height="92"/>
+            <media:content url="slides/16.jpg" width="711" height="533"/>
+            
+            <jalbum:exif originalDate="4/29/07 3:42 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/16.jpg</guid>
+        </item>
+        
+        <item>
+            <title>17</title>
+            <link>slides/17.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/17.jpg" width="124" height="92"/>
+            <media:content url="slides/17.jpg" width="711" height="533"/>
+            
+            <jalbum:exif originalDate="4/29/07 7:01 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/17.jpg</guid>
+        </item>
+        
+        <item>
+            <title>18</title>
+            <link>slides/18.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/18.jpg" width="124" height="92"/>
+            <media:content url="slides/18.jpg" width="711" height="533"/>
+            
+            <jalbum:exif originalDate="4/29/07 6:44 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/18.jpg</guid>
+        </item>
+        
+        <item>
+            <title>19</title>
+            <link>slides/19.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/19.jpg" width="124" height="92"/>
+            <media:content url="slides/19.jpg" width="711" height="533"/>
+            
+            <jalbum:exif originalDate="4/29/07 6:43 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/19.jpg</guid>
+        </item>
+        
+        <item>
+            <title>37</title>
+            <link>slides/37.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/37.jpg" width="120" height="90"/>
+            <media:content url="slides/37.jpg" width="120" height="90"/>
+            
+            
+            <guid isPermaLink="false">slides/37.jpg</guid>
+        </item>
+        
+        <item>
+            <title>39</title>
+            <link>slides/39.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/39.jpg" width="120" height="90"/>
+            <media:content url="slides/39.jpg" width="120" height="90"/>
+            
+            
+            <guid isPermaLink="false">slides/39.jpg</guid>
+        </item>
+        
+        <item>
+            <title>40</title>
+            <link>slides/40.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/40.jpg" width="90" height="120"/>
+            <media:content url="slides/40.jpg" width="90" height="120"/>
+            
+            
+            <guid isPermaLink="false">slides/40.jpg</guid>
+        </item>
+        
+        <item>
+            <title>41</title>
+            <link>slides/41.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/41.jpg" width="120" height="90"/>
+            <media:content url="slides/41.jpg" width="120" height="90"/>
+            
+            
+            <guid isPermaLink="false">slides/41.jpg</guid>
+        </item>
+        
+        <item>
+            <title>42</title>
+            <link>slides/42.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/42.jpg" width="120" height="90"/>
+            <media:content url="slides/42.jpg" width="120" height="90"/>
+            
+            
+            <guid isPermaLink="false">slides/42.jpg</guid>
+        </item>
+        
+        <item>
+            <title>43</title>
+            <link>slides/43.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/43.jpg" width="120" height="90"/>
+            <media:content url="slides/43.jpg" width="120" height="90"/>
+            
+            
+            <guid isPermaLink="false">slides/43.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1076</title>
+            <link>slides/img_1076.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1076.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1076.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/10/07 9:27 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1076.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1077</title>
+            <link>slides/img_1077.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1077.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1077.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/10/07 9:28 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1077.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1078</title>
+            <link>slides/img_1078.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1078.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1078.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/10/07 9:28 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1078.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1079</title>
+            <link>slides/img_1079.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1079.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1079.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/10/07 9:28 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1079.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1080</title>
+            <link>slides/img_1080.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1080.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1080.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/10/07 9:28 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1080.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1081</title>
+            <link>slides/img_1081.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1081.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1081.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/10/07 9:28 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1081.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1082</title>
+            <link>slides/img_1082.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1082.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1082.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/10/07 9:30 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1082.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1083</title>
+            <link>slides/img_1083.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1083.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1083.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/10/07 9:30 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1083.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1084</title>
+            <link>slides/img_1084.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1084.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1084.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/10/07 9:41 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1084.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1085</title>
+            <link>slides/img_1085.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1085.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1085.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/10/07 9:41 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1085.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1086</title>
+            <link>slides/img_1086.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1086.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1086.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/10/07 9:48 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1086.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1087</title>
+            <link>slides/img_1087.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1087.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1087.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/10/07 9:49 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1087.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1088</title>
+            <link>slides/img_1088.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1088.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1088.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/10/07 9:49 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1088.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1089</title>
+            <link>slides/img_1089.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1089.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1089.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/11/07 7:28 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1089.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1091</title>
+            <link>slides/img_1091.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1091.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1091.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/11/07 7:29 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1091.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1092</title>
+            <link>slides/img_1092.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1092.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1092.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/11/07 7:29 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1092.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1094</title>
+            <link>slides/img_1094.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1094.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1094.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/11/07 7:30 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1094.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1096</title>
+            <link>slides/img_1096.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1096.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1096.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/11/07 7:35 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1096.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1097</title>
+            <link>slides/img_1097.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1097.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1097.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/11/07 7:35 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1097.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1098</title>
+            <link>slides/img_1098.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1098.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1098.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/11/07 7:35 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1098.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1099</title>
+            <link>slides/img_1099.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1099.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1099.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/11/07 7:37 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1099.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1100</title>
+            <link>slides/img_1100.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1100.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1100.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/11/07 7:37 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1100.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1101</title>
+            <link>slides/img_1101.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1101.jpg" width="93" height="124"/>
+            <media:content url="slides/img_1101.jpg" width="600" height="800"/>
+            
+            <jalbum:exif originalDate="5/11/07 7:40 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1101.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1102</title>
+            <link>slides/img_1102.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1102.jpg" width="93" height="124"/>
+            <media:content url="slides/img_1102.jpg" width="600" height="800"/>
+            
+            <jalbum:exif originalDate="5/11/07 7:41 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1102.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1103</title>
+            <link>slides/img_1103.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1103.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1103.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/11/07 7:41 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1103.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1104</title>
+            <link>slides/img_1104.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1104.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1104.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/11/07 7:44 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1104.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1105</title>
+            <link>slides/img_1105.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1105.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1105.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/11/07 7:44 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1105.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1106</title>
+            <link>slides/img_1106.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1106.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1106.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/11/07 7:45 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1106.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1107</title>
+            <link>slides/img_1107.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1107.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1107.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/11/07 7:45 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1107.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1116</title>
+            <link>slides/img_1116.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1116.jpg" width="93" height="124"/>
+            <media:content url="slides/img_1116.jpg" width="600" height="800"/>
+            
+            <jalbum:exif originalDate="5/11/07 7:49 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1116.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1117</title>
+            <link>slides/img_1117.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1117.jpg" width="93" height="124"/>
+            <media:content url="slides/img_1117.jpg" width="600" height="800"/>
+            
+            <jalbum:exif originalDate="5/11/07 7:49 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1117.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1118</title>
+            <link>slides/img_1118.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1118.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1118.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/11/07 7:58 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1118.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1119</title>
+            <link>slides/img_1119.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1119.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1119.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/11/07 7:59 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1119.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1121</title>
+            <link>slides/img_1121.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1121.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1121.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/11/07 8:00 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1121.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1122</title>
+            <link>slides/img_1122.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1122.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1122.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/11/07 8:01 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1122.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1123</title>
+            <link>slides/img_1123.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1123.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1123.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/11/07 8:01 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1123.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1124</title>
+            <link>slides/img_1124.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1124.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1124.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/11/07 8:01 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1124.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1125</title>
+            <link>slides/img_1125.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1125.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1125.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 9:37 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1125.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1126</title>
+            <link>slides/img_1126.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1126.jpg" width="93" height="124"/>
+            <media:content url="slides/img_1126.jpg" width="600" height="800"/>
+            
+            <jalbum:exif originalDate="5/12/07 9:37 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1126.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1129</title>
+            <link>slides/img_1129.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1129.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1129.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 9:37 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1129.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1132</title>
+            <link>slides/img_1132.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1132.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1132.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 9:38 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1132.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1133</title>
+            <link>slides/img_1133.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1133.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1133.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 9:38 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1133.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1134</title>
+            <link>slides/img_1134.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1134.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1134.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 9:38 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1134.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1135</title>
+            <link>slides/img_1135.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1135.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1135.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 9:39 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1135.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1136</title>
+            <link>slides/img_1136.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1136.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1136.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 9:44 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1136.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1137</title>
+            <link>slides/img_1137.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1137.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1137.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 10:06 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1137.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1138</title>
+            <link>slides/img_1138.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1138.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1138.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 10:10 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1138.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1141</title>
+            <link>slides/img_1141.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1141.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1141.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 11:06 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1141.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1142</title>
+            <link>slides/img_1142.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1142.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1142.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 11:06 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1142.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1158</title>
+            <link>slides/img_1158.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1158.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1158.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 11:59 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1158.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1159</title>
+            <link>slides/img_1159.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1159.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1159.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 11:59 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1159.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1160</title>
+            <link>slides/img_1160.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1160.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1160.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 11:59 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1160.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1161</title>
+            <link>slides/img_1161.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1161.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1161.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 11:59 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1161.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1162</title>
+            <link>slides/img_1162.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1162.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1162.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:00 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1162.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1163</title>
+            <link>slides/img_1163.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1163.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1163.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:01 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1163.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1164</title>
+            <link>slides/img_1164.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1164.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1164.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:02 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1164.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1165</title>
+            <link>slides/img_1165.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1165.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1165.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:05 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1165.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1166</title>
+            <link>slides/img_1166.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1166.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1166.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:05 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1166.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1167</title>
+            <link>slides/img_1167.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1167.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1167.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:05 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1167.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1168</title>
+            <link>slides/img_1168.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1168.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1168.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:06 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1168.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1171</title>
+            <link>slides/img_1171.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1171.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1171.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:07 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1171.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1172</title>
+            <link>slides/img_1172.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1172.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1172.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:07 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1172.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1173</title>
+            <link>slides/img_1173.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1173.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1173.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:07 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1173.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1174</title>
+            <link>slides/img_1174.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1174.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1174.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:08 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1174.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1175</title>
+            <link>slides/img_1175.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1175.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1175.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:08 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1175.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1176</title>
+            <link>slides/img_1176.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1176.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1176.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:08 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1176.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1177</title>
+            <link>slides/img_1177.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1177.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1177.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:09 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1177.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1178</title>
+            <link>slides/img_1178.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1178.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1178.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:09 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1178.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1179</title>
+            <link>slides/img_1179.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1179.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1179.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:11 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1179.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1180</title>
+            <link>slides/img_1180.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1180.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1180.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:11 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1180.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1181</title>
+            <link>slides/img_1181.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1181.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1181.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:11 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1181.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1182</title>
+            <link>slides/img_1182.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1182.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1182.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:11 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1182.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1183</title>
+            <link>slides/img_1183.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1183.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1183.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:11 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1183.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1184</title>
+            <link>slides/img_1184.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1184.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1184.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:11 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1184.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1185</title>
+            <link>slides/img_1185.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1185.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1185.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:12 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1185.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1186</title>
+            <link>slides/img_1186.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1186.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1186.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:12 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1186.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1187</title>
+            <link>slides/img_1187.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1187.jpg" width="93" height="124"/>
+            <media:content url="slides/img_1187.jpg" width="600" height="800"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:12 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1187.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1188</title>
+            <link>slides/img_1188.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1188.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1188.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:13 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1188.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1189</title>
+            <link>slides/img_1189.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1189.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1189.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:13 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1189.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1190</title>
+            <link>slides/img_1190.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1190.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1190.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:13 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1190.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1191</title>
+            <link>slides/img_1191.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1191.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1191.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:14 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1191.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1193</title>
+            <link>slides/img_1193.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1193.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1193.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:14 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1193.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1196</title>
+            <link>slides/img_1196.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1196.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1196.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:15 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1196.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1198</title>
+            <link>slides/img_1198.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1198.jpg" width="93" height="124"/>
+            <media:content url="slides/img_1198.jpg" width="600" height="800"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:15 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1198.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1199</title>
+            <link>slides/img_1199.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1199.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1199.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:15 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1199.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1200</title>
+            <link>slides/img_1200.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1200.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1200.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:16 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1200.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1201</title>
+            <link>slides/img_1201.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1201.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1201.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:17 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1201.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1202</title>
+            <link>slides/img_1202.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1202.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1202.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:17 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1202.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1203</title>
+            <link>slides/img_1203.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1203.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1203.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:17 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1203.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1204</title>
+            <link>slides/img_1204.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1204.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1204.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:18 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1204.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1205</title>
+            <link>slides/img_1205.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1205.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1205.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:18 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1205.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1206</title>
+            <link>slides/img_1206.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1206.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1206.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 5:01 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1206.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1207</title>
+            <link>slides/img_1207.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1207.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1207.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 5:01 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1207.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1208</title>
+            <link>slides/img_1208.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1208.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1208.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 5:02 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1208.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1209</title>
+            <link>slides/img_1209.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1209.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1209.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 5:02 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1209.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1210</title>
+            <link>slides/img_1210.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1210.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1210.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 5:02 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1210.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1211</title>
+            <link>slides/img_1211.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1211.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1211.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 5:03 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1211.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1212</title>
+            <link>slides/img_1212.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1212.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1212.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 5:11 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1212.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1213</title>
+            <link>slides/img_1213.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1213.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1213.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 5:12 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1213.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1215</title>
+            <link>slides/img_1215.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1215.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1215.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 5:12 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1215.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1216</title>
+            <link>slides/img_1216.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1216.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1216.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 5:17 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1216.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1217</title>
+            <link>slides/img_1217.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1217.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1217.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 5:17 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1217.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1218</title>
+            <link>slides/img_1218.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1218.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1218.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 5:18 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1218.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1219</title>
+            <link>slides/img_1219.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1219.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1219.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 5:35 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1219.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1220</title>
+            <link>slides/img_1220.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1220.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1220.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 5:36 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1220.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1221</title>
+            <link>slides/img_1221.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1221.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1221.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 5:36 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1221.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1222</title>
+            <link>slides/img_1222.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1222.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1222.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 5:36 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1222.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1223</title>
+            <link>slides/img_1223.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1223.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1223.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 5:36 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1223.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1224</title>
+            <link>slides/img_1224.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1224.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1224.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 6:29 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1224.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1225</title>
+            <link>slides/img_1225.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1225.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1225.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 6:29 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1225.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1226</title>
+            <link>slides/img_1226.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1226.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1226.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 6:29 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1226.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1227</title>
+            <link>slides/img_1227.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1227.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1227.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 6:33 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1227.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1228</title>
+            <link>slides/img_1228.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1228.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1228.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 6:33 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1228.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1229</title>
+            <link>slides/img_1229.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1229.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1229.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 6:33 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1229.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_1232</title>
+            <link>slides/img_1232.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1232.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1232.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/14/07 5:40 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/img_1232.jpg</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1269</title>
+            <link>slides/IMG_1269.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1269.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1269.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/24/07 7:18 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1269.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1270</title>
+            <link>slides/IMG_1270.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1270.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1270.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/24/07 7:18 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1270.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1271</title>
+            <link>slides/IMG_1271.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1271.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1271.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/24/07 7:18 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1271.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1272</title>
+            <link>slides/IMG_1272.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1272.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1272.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/24/07 7:19 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1272.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1273</title>
+            <link>slides/IMG_1273.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1273.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1273.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/24/07 7:19 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1273.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1274</title>
+            <link>slides/IMG_1274.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1274.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1274.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 8:58 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1274.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1275</title>
+            <link>slides/IMG_1275.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1275.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1275.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 8:59 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1275.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1276</title>
+            <link>slides/IMG_1276.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1276.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1276.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 9:00 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1276.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1278</title>
+            <link>slides/IMG_1278.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1278.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1278.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 9:00 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1278.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1279</title>
+            <link>slides/IMG_1279.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1279.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1279.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 9:01 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1279.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1280</title>
+            <link>slides/IMG_1280.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1280.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1280.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 9:01 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1280.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1283</title>
+            <link>slides/IMG_1283.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1283.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1283.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 9:04 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1283.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1284</title>
+            <link>slides/IMG_1284.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1284.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1284.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 9:05 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1284.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1285</title>
+            <link>slides/IMG_1285.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1285.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1285.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 9:10 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1285.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1286</title>
+            <link>slides/IMG_1286.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1286.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1286.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 9:11 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1286.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1287</title>
+            <link>slides/IMG_1287.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1287.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1287.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 9:11 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1287.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1288</title>
+            <link>slides/IMG_1288.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1288.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1288.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 9:11 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1288.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1289</title>
+            <link>slides/IMG_1289.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1289.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1289.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 9:11 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1289.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1290</title>
+            <link>slides/IMG_1290.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1290.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1290.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 9:12 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1290.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1291</title>
+            <link>slides/IMG_1291.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1291.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1291.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 9:12 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1291.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1292</title>
+            <link>slides/IMG_1292.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1292.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1292.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 9:14 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1292.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1293</title>
+            <link>slides/IMG_1293.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1293.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1293.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 9:15 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1293.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1294</title>
+            <link>slides/IMG_1294.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1294.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1294.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 9:15 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1294.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1295</title>
+            <link>slides/IMG_1295.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1295.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1295.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 6:58 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1295.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1296</title>
+            <link>slides/IMG_1296.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1296.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1296.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 6:59 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1296.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1297</title>
+            <link>slides/IMG_1297.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1297.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1297.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 6:59 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1297.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1298</title>
+            <link>slides/IMG_1298.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1298.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1298.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 7:00 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1298.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1299</title>
+            <link>slides/IMG_1299.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1299.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1299.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 7:00 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1299.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1300</title>
+            <link>slides/IMG_1300.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1300.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1300.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 7:00 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1300.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1301</title>
+            <link>slides/IMG_1301.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1301.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1301.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 7:00 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1301.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1302</title>
+            <link>slides/IMG_1302.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1302.JPG" width="93" height="124"/>
+            <media:content url="slides/IMG_1302.JPG" width="600" height="800"/>
+            
+            <jalbum:exif originalDate="5/25/07 7:01 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1302.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1303</title>
+            <link>slides/IMG_1303.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1303.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1303.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 7:02 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1303.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1304</title>
+            <link>slides/IMG_1304.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1304.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1304.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 7:03 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1304.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1305</title>
+            <link>slides/IMG_1305.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1305.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1305.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 7:03 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1305.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1306</title>
+            <link>slides/IMG_1306.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1306.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1306.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 7:03 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1306.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1307</title>
+            <link>slides/IMG_1307.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1307.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1307.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 7:03 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1307.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1308</title>
+            <link>slides/IMG_1308.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1308.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1308.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 7:05 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1308.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1309</title>
+            <link>slides/IMG_1309.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1309.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1309.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/29/07 10:07 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1309.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1310</title>
+            <link>slides/IMG_1310.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1310.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1310.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/29/07 10:07 AM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1310.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1311</title>
+            <link>slides/IMG_1311.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1311.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1311.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 1:25 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1311.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1312</title>
+            <link>slides/IMG_1312.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1312.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1312.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 1:25 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1312.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1315</title>
+            <link>slides/IMG_1315.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1315.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1315.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 2:55 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1315.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1316</title>
+            <link>slides/IMG_1316.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1316.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1316.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 2:58 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1316.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1317</title>
+            <link>slides/IMG_1317.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1317.JPG" width="93" height="124"/>
+            <media:content url="slides/IMG_1317.JPG" width="600" height="800"/>
+            
+            <jalbum:exif originalDate="5/30/07 3:50 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1317.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1320</title>
+            <link>slides/IMG_1320.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1320.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1320.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 3:54 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1320.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1321</title>
+            <link>slides/IMG_1321.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1321.JPG" width="93" height="124"/>
+            <media:content url="slides/IMG_1321.JPG" width="600" height="800"/>
+            
+            <jalbum:exif originalDate="5/30/07 4:07 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1321.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1322</title>
+            <link>slides/IMG_1322.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1322.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1322.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 4:08 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1322.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1323</title>
+            <link>slides/IMG_1323.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1323.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1323.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 4:08 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1323.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1324</title>
+            <link>slides/IMG_1324.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1324.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1324.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 4:08 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1324.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1326</title>
+            <link>slides/IMG_1326.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1326.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1326.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 4:09 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1326.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1327</title>
+            <link>slides/IMG_1327.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1327.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1327.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 4:10 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1327.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1329</title>
+            <link>slides/IMG_1329.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1329.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1329.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 4:10 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1329.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1330</title>
+            <link>slides/IMG_1330.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1330.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1330.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 4:11 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1330.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1331</title>
+            <link>slides/IMG_1331.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1331.JPG" width="93" height="124"/>
+            <media:content url="slides/IMG_1331.JPG" width="600" height="800"/>
+            
+            <jalbum:exif originalDate="5/30/07 4:12 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1331.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1332</title>
+            <link>slides/IMG_1332.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:05 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1332.JPG" width="93" height="124"/>
+            <media:content url="slides/IMG_1332.JPG" width="600" height="800"/>
+            
+            <jalbum:exif originalDate="5/30/07 4:12 PM" cameraMake="Canon" cameraModel="Canon PowerShot A620"/>
+            <guid isPermaLink="false">slides/IMG_1332.JPG</guid>
+        </item>
+        
+    </channel>
+</rss>

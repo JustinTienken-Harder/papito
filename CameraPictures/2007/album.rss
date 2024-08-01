@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>2007</title>
+   	<link>..</link>
+        <generator>Jalbum 8.2</generator>
+   		<description></description>
+        
+    	<jalbum:link rel="sub" href="01-January/album.rss" />   	
+    	<jalbum:link rel="sub" href="01-January/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="02-February/album.rss" />   	
+    	<jalbum:link rel="sub" href="02-February/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="03-March/album.rss" />   	
+    	<jalbum:link rel="sub" href="03-March/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="04-April/album.rss" />   	
+    	<jalbum:link rel="sub" href="04-April/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="05-May/album.rss" />   	
+    	<jalbum:link rel="sub" href="05-May/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="06-June/album.rss" />   	
+    	<jalbum:link rel="sub" href="06-June/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="07-July/album.rss" />   	
+    	<jalbum:link rel="sub" href="07-July/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="08-August/album.rss" />   	
+    	<jalbum:link rel="sub" href="08-August/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="09-September/album.rss" />   	
+    	<jalbum:link rel="sub" href="09-September/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="10-October/album.rss" />   	
+    	<jalbum:link rel="sub" href="10-October/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="11-November/album.rss" />   	
+    	<jalbum:link rel="sub" href="11-November/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="12-December/album.rss" />   	
+    	<jalbum:link rel="sub" href="12-December/album.rss" />   	
+    	
+        
+    </channel>
+</rss>

@@ -1,0 +1,2216 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>05-May</title>
+   	<link>../..</link>
+        <generator>Jalbum 8.2</generator>
+   		<description></description>
+        
+    	<jalbum:link rel="sub" href="Ruby/album.rss" />   	
+    	<jalbum:link rel="sub" href="Ruby/album.rss" />   	
+    	
+        
+        <item>
+            <title>IMG_0176</title>
+            <link>slides/IMG_0176.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Orange tree still healthy.</description>
+            <media:description type="html">Orange tree still healthy.</media:description>
+            <media:thumbnail url="thumbs/IMG_0176.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0176.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/9/07 9:55 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0176.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0177</title>
+            <link>slides/IMG_0177.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Don and Evelyn in screen room
+</description>
+            <media:description type="html">Don and Evelyn in screen room
+</media:description>
+            <media:thumbnail url="thumbs/IMG_0177.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0177.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/9/07 7:38 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0177.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0178</title>
+            <link>slides/IMG_0178.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Don taking pictures.</description>
+            <media:description type="html">Don taking pictures.</media:description>
+            <media:thumbnail url="thumbs/IMG_0178.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0178.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/9/07 7:38 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0178.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0179</title>
+            <link>slides/IMG_0179.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0179.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0179.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/9/07 7:39 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0179.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0180</title>
+            <link>slides/IMG_0180.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0180.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0180.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/9/07 7:39 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0180.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0181</title>
+            <link>slides/IMG_0181.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Ruth relaxing</description>
+            <media:description type="html">Ruth relaxing</media:description>
+            <media:thumbnail url="thumbs/IMG_0181.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0181.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/9/07 7:39 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0181.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0182</title>
+            <link>slides/IMG_0182.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Monica doing dishes</description>
+            <media:description type="html">Monica doing dishes</media:description>
+            <media:thumbnail url="thumbs/IMG_0182.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0182.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/9/07 7:53 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0182.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0183</title>
+            <link>slides/IMG_0183.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Monica more normal</description>
+            <media:description type="html">Monica more normal</media:description>
+            <media:thumbnail url="thumbs/IMG_0183.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0183.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/9/07 7:53 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0183.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0184</title>
+            <link>slides/IMG_0184.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Oakland nature preserve trail.</description>
+            <media:description type="html">Oakland nature preserve trail.</media:description>
+            <media:thumbnail url="thumbs/IMG_0184.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0184.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/10/07 9:25 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0184.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0185</title>
+            <link>slides/IMG_0185.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Oakland nature preserve trail.</description>
+            <media:description type="html">Oakland nature preserve trail.</media:description>
+            <media:thumbnail url="thumbs/IMG_0185.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0185.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/10/07 9:26 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0185.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0186</title>
+            <link>slides/IMG_0186.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Oakland nature preserve alligator.</description>
+            <media:description type="html">Oakland nature preserve alligator.</media:description>
+            <media:thumbnail url="thumbs/IMG_0186.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0186.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/10/07 9:29 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0186.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0187</title>
+            <link>slides/IMG_0187.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0187.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0187.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/10/07 9:29 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0187.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0188</title>
+            <link>slides/IMG_0188.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Oakland nature preserve.</description>
+            <media:description type="html">Oakland nature preserve.</media:description>
+            <media:thumbnail url="thumbs/IMG_0188.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0188.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/10/07 9:29 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0188.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0189</title>
+            <link>slides/IMG_0189.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Oakland nature preserve alligator.</description>
+            <media:description type="html">Oakland nature preserve alligator.</media:description>
+            <media:thumbnail url="thumbs/IMG_0189.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0189.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/10/07 9:29 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0189.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0190</title>
+            <link>slides/IMG_0190.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Oakland nature preserve alligator.</description>
+            <media:description type="html">Oakland nature preserve alligator.</media:description>
+            <media:thumbnail url="thumbs/IMG_0190.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0190.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/10/07 9:29 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0190.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0192</title>
+            <link>slides/IMG_0192.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>South end of Lake Apopka.</description>
+            <media:description type="html">South end of Lake Apopka.</media:description>
+            <media:thumbnail url="thumbs/IMG_0192.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0192.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/10/07 9:31 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0192.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0193</title>
+            <link>slides/IMG_0193.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>South end of Lake Apopka.</description>
+            <media:description type="html">South end of Lake Apopka.</media:description>
+            <media:thumbnail url="thumbs/IMG_0193.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0193.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/10/07 9:31 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0193.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0194</title>
+            <link>slides/IMG_0194.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>South end of Lake Apopka.</description>
+            <media:description type="html">South end of Lake Apopka.</media:description>
+            <media:thumbnail url="thumbs/IMG_0194.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0194.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/10/07 9:32 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0194.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0195</title>
+            <link>slides/IMG_0195.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>South end of Lake Apopka.</description>
+            <media:description type="html">South end of Lake Apopka.</media:description>
+            <media:thumbnail url="thumbs/IMG_0195.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0195.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/10/07 9:32 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0195.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0196</title>
+            <link>slides/IMG_0196.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Eagle with fish.</description>
+            <media:description type="html">Eagle with fish.</media:description>
+            <media:thumbnail url="thumbs/IMG_0196.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0196.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/10/07 10:06 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0196.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0197</title>
+            <link>slides/IMG_0197.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Another eagle with fish.</description>
+            <media:description type="html">Another eagle with fish.</media:description>
+            <media:thumbnail url="thumbs/IMG_0197.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0197.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/10/07 10:06 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0197.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0198</title>
+            <link>slides/IMG_0198.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Eagle with fish.</description>
+            <media:description type="html">Eagle with fish.</media:description>
+            <media:thumbnail url="thumbs/IMG_0198.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0198.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/10/07 10:07 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0198.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0199</title>
+            <link>slides/IMG_0199.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Eagle wishing he had a fish.</description>
+            <media:description type="html">Eagle wishing he had a fish.</media:description>
+            <media:thumbnail url="thumbs/IMG_0199.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0199.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/10/07 10:08 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0199.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0200</title>
+            <link>slides/IMG_0200.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Oakland nature trail.</description>
+            <media:description type="html">Oakland nature trail.</media:description>
+            <media:thumbnail url="thumbs/IMG_0200.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0200.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/10/07 10:08 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0200.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0201</title>
+            <link>slides/IMG_0201.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Spot the woodpecker.</description>
+            <media:description type="html">Spot the woodpecker.</media:description>
+            <media:thumbnail url="thumbs/IMG_0201.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0201.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/10/07 10:09 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0201.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0202</title>
+            <link>slides/IMG_0202.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Another eagle.</description>
+            <media:description type="html">Another eagle.</media:description>
+            <media:thumbnail url="thumbs/IMG_0202.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0202.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/10/07 10:14 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0202.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0203</title>
+            <link>slides/IMG_0203.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Another eagle.</description>
+            <media:description type="html">Another eagle.</media:description>
+            <media:thumbnail url="thumbs/IMG_0203.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0203.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/10/07 10:14 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0203.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0204</title>
+            <link>slides/IMG_0204.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Mile 0. Orange county line, start of bike trail.</description>
+            <media:description type="html">Mile 0. Orange county line, start of bike trail.</media:description>
+            <media:thumbnail url="thumbs/IMG_0204.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0204.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/10/07 10:40 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0204.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0205</title>
+            <link>slides/IMG_0205.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Killarney station at mile 0.</description>
+            <media:description type="html">Killarney station at mile 0.</media:description>
+            <media:thumbnail url="thumbs/IMG_0205.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0205.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/10/07 10:40 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0205.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0206</title>
+            <link>slides/IMG_0206.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Taco night at the Dufners'.</description>
+            <media:description type="html">Taco night at the Dufners'.</media:description>
+            <media:thumbnail url="thumbs/IMG_0206.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0206.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/10/07 7:47 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0206.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0207</title>
+            <link>slides/IMG_0207.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Taco night at the Dufners'.</description>
+            <media:description type="html">Taco night at the Dufners'.</media:description>
+            <media:thumbnail url="thumbs/IMG_0207.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0207.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/10/07 7:51 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0207.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0208</title>
+            <link>slides/IMG_0208.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Taco night at the Dufners'. Newlyweds.</description>
+            <media:description type="html">Taco night at the Dufners'. Newlyweds.</media:description>
+            <media:thumbnail url="thumbs/IMG_0208.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0208.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/10/07 7:51 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0208.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0209</title>
+            <link>slides/IMG_0209.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Oldyweds.</description>
+            <media:description type="html">Oldyweds.</media:description>
+            <media:thumbnail url="thumbs/IMG_0209.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0209.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/10/07 7:51 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0209.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0210</title>
+            <link>slides/IMG_0210.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Justin was bribed to get a haircut. Delia with the shears.</description>
+            <media:description type="html">Justin was bribed to get a haircut. Delia with the shears.</media:description>
+            <media:thumbnail url="thumbs/IMG_0210.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0210.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/11/07 9:37 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0210.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0211</title>
+            <link>slides/IMG_0211.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Justin was bribed to get a haircut. Delia with the shears.</description>
+            <media:description type="html">Justin was bribed to get a haircut. Delia with the shears.</media:description>
+            <media:thumbnail url="thumbs/IMG_0211.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0211.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/11/07 9:38 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0211.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0212</title>
+            <link>slides/IMG_0212.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Justin was bribed to get a haircut. Delia with the shears.</description>
+            <media:description type="html">Justin was bribed to get a haircut. Delia with the shears.</media:description>
+            <media:thumbnail url="thumbs/IMG_0212.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0212.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/11/07 9:43 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0212.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0213</title>
+            <link>slides/IMG_0213.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Justin was bribed to get a haircut. Delia with the shears.</description>
+            <media:description type="html">Justin was bribed to get a haircut. Delia with the shears.</media:description>
+            <media:thumbnail url="thumbs/IMG_0213.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0213.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/11/07 9:43 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0213.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0214</title>
+            <link>slides/IMG_0214.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Ruby and Delia.</description>
+            <media:description type="html">Ruby and Delia.</media:description>
+            <media:thumbnail url="thumbs/IMG_0214.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0214.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 9:38 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0214.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0215</title>
+            <link>slides/IMG_0215.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Rollins college. Evelyn's masters degree cerimony.</description>
+            <media:description type="html">Rollins college. Evelyn's masters degree cerimony.</media:description>
+            <media:thumbnail url="thumbs/IMG_0215.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0215.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 9:56 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0215.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0216</title>
+            <link>slides/IMG_0216.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Rollins college. Evelyn's masters degree cerimony.</description>
+            <media:description type="html">Rollins college. Evelyn's masters degree cerimony.</media:description>
+            <media:thumbnail url="thumbs/IMG_0216.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0216.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 9:56 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0216.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0217</title>
+            <link>slides/IMG_0217.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Rollins college. Evelyn's masters degree cerimony.</description>
+            <media:description type="html">Rollins college. Evelyn's masters degree cerimony.</media:description>
+            <media:thumbnail url="thumbs/IMG_0217.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0217.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 9:56 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0217.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0218</title>
+            <link>slides/IMG_0218.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Rollins college. Evelyn's masters degree cerimony.</description>
+            <media:description type="html">Rollins college. Evelyn's masters degree cerimony.</media:description>
+            <media:thumbnail url="thumbs/IMG_0218.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0218.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 9:56 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0218.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0219</title>
+            <link>slides/IMG_0219.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Rollins college. Evelyn's masters degree cerimony.</description>
+            <media:description type="html">Rollins college. Evelyn's masters degree cerimony.</media:description>
+            <media:thumbnail url="thumbs/IMG_0219.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0219.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 9:56 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0219.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0220</title>
+            <link>slides/IMG_0220.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Rollins college. Evelyn's masters degree cerimony.</description>
+            <media:description type="html">Rollins college. Evelyn's masters degree cerimony.</media:description>
+            <media:thumbnail url="thumbs/IMG_0220.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0220.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 9:56 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0220.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0221</title>
+            <link>slides/IMG_0221.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Rollins college. Evelyn's masters degree cerimony.</description>
+            <media:description type="html">Rollins college. Evelyn's masters degree cerimony.</media:description>
+            <media:thumbnail url="thumbs/IMG_0221.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0221.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 9:57 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0221.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0222</title>
+            <link>slides/IMG_0222.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Rollins college. Evelyn's masters degree cerimony.</description>
+            <media:description type="html">Rollins college. Evelyn's masters degree cerimony.</media:description>
+            <media:thumbnail url="thumbs/IMG_0222.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0222.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 9:57 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0222.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0223</title>
+            <link>slides/IMG_0223.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0223.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0223.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 10:08 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0223.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0224</title>
+            <link>slides/IMG_0224.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0224.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0224.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 10:08 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0224.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0225</title>
+            <link>slides/IMG_0225.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0225.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0225.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 10:08 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0225.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0226</title>
+            <link>slides/IMG_0226.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0226.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0226.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 10:09 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0226.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0227</title>
+            <link>slides/IMG_0227.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Rollins college. Evelyn's masters degree cerimony.</description>
+            <media:description type="html">Rollins college. Evelyn's masters degree cerimony.</media:description>
+            <media:thumbnail url="thumbs/IMG_0227.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0227.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 10:12 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0227.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0228</title>
+            <link>slides/IMG_0228.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Rollins college. Evelyn's masters degree cerimony.</description>
+            <media:description type="html">Rollins college. Evelyn's masters degree cerimony.</media:description>
+            <media:thumbnail url="thumbs/IMG_0228.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0228.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 10:12 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0228.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0229</title>
+            <link>slides/IMG_0229.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Rollins college. Evelyn's masters degree cerimony.</description>
+            <media:description type="html">Rollins college. Evelyn's masters degree cerimony.</media:description>
+            <media:thumbnail url="thumbs/IMG_0229.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0229.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 10:12 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0229.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0230</title>
+            <link>slides/IMG_0230.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Rollins college. Evelyn's masters degree cerimony.</description>
+            <media:description type="html">Rollins college. Evelyn's masters degree cerimony.</media:description>
+            <media:thumbnail url="thumbs/IMG_0230.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0230.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 10:12 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0230.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0231</title>
+            <link>slides/IMG_0231.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Rollins college. Evelyn's masters degree cerimony.</description>
+            <media:description type="html">Rollins college. Evelyn's masters degree cerimony.</media:description>
+            <media:thumbnail url="thumbs/IMG_0231.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0231.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 10:12 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0231.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0232</title>
+            <link>slides/IMG_0232.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0232.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0232.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 11:32 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0232.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0233</title>
+            <link>slides/IMG_0233.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0233.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0233.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 11:33 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0233.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0234</title>
+            <link>slides/IMG_0234.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0234.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0234.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 11:33 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0234.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0235</title>
+            <link>slides/IMG_0235.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0235.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0235.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 11:35 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0235.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0236</title>
+            <link>slides/IMG_0236.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0236.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0236.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 11:35 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0236.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0237</title>
+            <link>slides/IMG_0237.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Rollins college. Evelyn's masters degree cerimony.</description>
+            <media:description type="html">Rollins college. Evelyn's masters degree cerimony.</media:description>
+            <media:thumbnail url="thumbs/IMG_0237.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0237.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 11:35 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0237.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0238</title>
+            <link>slides/IMG_0238.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0238.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0238.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 11:35 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0238.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0239</title>
+            <link>slides/IMG_0239.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0239.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0239.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 11:35 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0239.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0240</title>
+            <link>slides/IMG_0240.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0240.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0240.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 11:35 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0240.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0241</title>
+            <link>slides/IMG_0241.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Rollins college. Evelyn's masters degree cerimony.</description>
+            <media:description type="html">Rollins college. Evelyn's masters degree cerimony.</media:description>
+            <media:thumbnail url="thumbs/IMG_0241.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0241.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 11:44 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0241.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0242</title>
+            <link>slides/IMG_0242.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Vicky, Evelyn and Fenton.</description>
+            <media:description type="html">Vicky, Evelyn and Fenton.</media:description>
+            <media:thumbnail url="thumbs/IMG_0242.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0242.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:04 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0242.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0243</title>
+            <link>slides/IMG_0243.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Vickey, Evelyn, and Fenton.</description>
+            <media:description type="html">Vickey, Evelyn, and Fenton.</media:description>
+            <media:thumbnail url="thumbs/IMG_0243.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0243.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:04 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0243.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0244</title>
+            <link>slides/IMG_0244.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Justin, Evelyn and Gary.</description>
+            <media:description type="html">Justin, Evelyn and Gary.</media:description>
+            <media:thumbnail url="thumbs/IMG_0244.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0244.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:05 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0244.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0245</title>
+            <link>slides/IMG_0245.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Justin, Evelyn and Gary.</description>
+            <media:description type="html">Justin, Evelyn and Gary.</media:description>
+            <media:thumbnail url="thumbs/IMG_0245.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0245.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:05 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0245.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0246</title>
+            <link>slides/IMG_0246.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Justin, Evelyn and Gary.</description>
+            <media:description type="html">Justin, Evelyn and Gary.</media:description>
+            <media:thumbnail url="thumbs/IMG_0246.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0246.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:06 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0246.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0247</title>
+            <link>slides/IMG_0247.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Justin, Evelyn and Gary.</description>
+            <media:description type="html">Justin, Evelyn and Gary.</media:description>
+            <media:thumbnail url="thumbs/IMG_0247.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0247.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:06 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0247.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0248</title>
+            <link>slides/IMG_0248.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Evelyn's degree.</description>
+            <media:description type="html">Evelyn's degree.</media:description>
+            <media:thumbnail url="thumbs/IMG_0248.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0248.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:06 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0248.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0249</title>
+            <link>slides/IMG_0249.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Justin, Evelyn and Gary.</description>
+            <media:description type="html">Justin, Evelyn and Gary.</media:description>
+            <media:thumbnail url="thumbs/IMG_0249.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0249.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:06 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0249.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0250</title>
+            <link>slides/IMG_0250.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Monica</description>
+            <media:description type="html">Monica</media:description>
+            <media:thumbnail url="thumbs/IMG_0250.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0250.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:12 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0250.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0251</title>
+            <link>slides/IMG_0251.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0251.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0251.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:12 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0251.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0252</title>
+            <link>slides/IMG_0252.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Justin.</description>
+            <media:description type="html">Justin.</media:description>
+            <media:thumbnail url="thumbs/IMG_0252.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0252.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:12 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0252.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0253</title>
+            <link>slides/IMG_0253.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Whitney and Evelyn.</description>
+            <media:description type="html">Whitney and Evelyn.</media:description>
+            <media:thumbnail url="thumbs/IMG_0253.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0253.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/12/07 12:13 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0253.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0254</title>
+            <link>slides/IMG_0254.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Don overseeing the kitchen</description>
+            <media:description type="html">Don overseeing the kitchen</media:description>
+            <media:thumbnail url="thumbs/IMG_0254.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0254.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/13/07 8:04 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0254.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0255</title>
+            <link>slides/IMG_0255.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Ruth setting the table.</description>
+            <media:description type="html">Ruth setting the table.</media:description>
+            <media:thumbnail url="thumbs/IMG_0255.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0255.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/13/07 8:04 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0255.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0256</title>
+            <link>slides/IMG_0256.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Don overseeing the kitchen</description>
+            <media:description type="html">Don overseeing the kitchen</media:description>
+            <media:thumbnail url="thumbs/IMG_0256.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0256.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/13/07 8:04 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0256.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0257</title>
+            <link>slides/IMG_0257.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Everyone fits at the tables.</description>
+            <media:description type="html">Everyone fits at the tables.</media:description>
+            <media:thumbnail url="thumbs/IMG_0257.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0257.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/13/07 8:16 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0257.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0258</title>
+            <link>slides/IMG_0258.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Everyone fits at the tables of leftovers. A little bit of everything.</description>
+            <media:description type="html">Everyone fits at the tables of leftovers. A little bit of everything.</media:description>
+            <media:thumbnail url="thumbs/IMG_0258.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0258.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/13/07 8:16 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0258.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0259</title>
+            <link>slides/IMG_0259.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Dessert time.</description>
+            <media:description type="html">Dessert time.</media:description>
+            <media:thumbnail url="thumbs/IMG_0259.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0259.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/13/07 9:04 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0259.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0260</title>
+            <link>slides/IMG_0260.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Don's birthday, with leftover cake.</description>
+            <media:description type="html">Don's birthday, with leftover cake.</media:description>
+            <media:thumbnail url="thumbs/IMG_0260.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0260.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/13/07 9:05 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0260.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0261</title>
+            <link>slides/IMG_0261.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Happy Birthday, Happy Birthday. People living in despair, people dying everywhere. Happy birthday to you.</description>
+            <media:description type="html">Happy Birthday, Happy Birthday. People living in despair, people dying everywhere. Happy birthday to you.</media:description>
+            <media:thumbnail url="thumbs/IMG_0261.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0261.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/13/07 9:05 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0261.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0262</title>
+            <link>slides/IMG_0262.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>The 1952 Jaguar sees daylight for the first time since 1979. Used the Focus to pull it out into the street.</description>
+            <media:description type="html">The 1952 Jaguar sees daylight for the first time since 1979. Used the Focus to pull it out into the street.</media:description>
+            <media:thumbnail url="thumbs/IMG_0262.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0262.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/21/07 11:50 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0262.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0263</title>
+            <link>slides/IMG_0263.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Getting ready to load it onto the truck.</description>
+            <media:description type="html">Getting ready to load it onto the truck.</media:description>
+            <media:thumbnail url="thumbs/IMG_0263.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0263.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/21/07 11:50 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0263.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0264</title>
+            <link>slides/IMG_0264.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Getting ready to load it onto the truck.</description>
+            <media:description type="html">Getting ready to load it onto the truck.</media:description>
+            <media:thumbnail url="thumbs/IMG_0264.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0264.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/21/07 11:50 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0264.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0265</title>
+            <link>slides/IMG_0265.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Getting ready to load it onto the truck.</description>
+            <media:description type="html">Getting ready to load it onto the truck.</media:description>
+            <media:thumbnail url="thumbs/IMG_0265.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0265.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/21/07 11:51 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0265.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0266</title>
+            <link>slides/IMG_0266.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Getting ready to load it onto the truck. No, I did not run over the truck driver.</description>
+            <media:description type="html">Getting ready to load it onto the truck. No, I did not run over the truck driver.</media:description>
+            <media:thumbnail url="thumbs/IMG_0266.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0266.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/21/07 11:51 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0266.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0267</title>
+            <link>slides/IMG_0267.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Getting loaded onto the truck.</description>
+            <media:description type="html">Getting loaded onto the truck.</media:description>
+            <media:thumbnail url="thumbs/IMG_0267.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0267.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/21/07 11:54 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0267.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0268</title>
+            <link>slides/IMG_0268.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Getting loaded onto the truck.</description>
+            <media:description type="html">Getting loaded onto the truck.</media:description>
+            <media:thumbnail url="thumbs/IMG_0268.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0268.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/21/07 11:55 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0268.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0269</title>
+            <link>slides/IMG_0269.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Getting loaded onto the truck.</description>
+            <media:description type="html">Getting loaded onto the truck.</media:description>
+            <media:thumbnail url="thumbs/IMG_0269.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0269.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/21/07 11:55 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0269.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0270</title>
+            <link>slides/IMG_0270.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Loaded and ready to go.</description>
+            <media:description type="html">Loaded and ready to go.</media:description>
+            <media:thumbnail url="thumbs/IMG_0270.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0270.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/21/07 11:57 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0270.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0271</title>
+            <link>slides/IMG_0271.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Loaded and ready to go.</description>
+            <media:description type="html">Loaded and ready to go.</media:description>
+            <media:thumbnail url="thumbs/IMG_0271.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0271.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/21/07 11:58 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0271.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0272</title>
+            <link>slides/IMG_0272.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Loaded and ready to go.</description>
+            <media:description type="html">Loaded and ready to go.</media:description>
+            <media:thumbnail url="thumbs/IMG_0272.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0272.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/21/07 11:58 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0272.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0273</title>
+            <link>slides/IMG_0273.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>See you at the shop.</description>
+            <media:description type="html">See you at the shop.</media:description>
+            <media:thumbnail url="thumbs/IMG_0273.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0273.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/21/07 11:59 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0273.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0274</title>
+            <link>slides/IMG_0274.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>In the shop. Quick visit.</description>
+            <media:description type="html">In the shop. Quick visit.</media:description>
+            <media:thumbnail url="thumbs/IMG_0274.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0274.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/23/07 11:21 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0274.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0275</title>
+            <link>slides/IMG_0275.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>In the shop. Quick visit.</description>
+            <media:description type="html">In the shop. Quick visit.</media:description>
+            <media:thumbnail url="thumbs/IMG_0275.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0275.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/23/07 11:21 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0275.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0276</title>
+            <link>slides/IMG_0276.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>In the shop. Quick visit. Front end torn down for restoration and upgrade.</description>
+            <media:description type="html">In the shop. Quick visit. Front end torn down for restoration and upgrade.</media:description>
+            <media:thumbnail url="thumbs/IMG_0276.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0276.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/23/07 11:21 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0276.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0277</title>
+            <link>slides/IMG_0277.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Taco night.</description>
+            <media:description type="html">Taco night.</media:description>
+            <media:thumbnail url="thumbs/IMG_0277.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0277.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/23/07 5:01 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0277.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0278</title>
+            <link>slides/IMG_0278.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Taco night.</description>
+            <media:description type="html">Taco night.</media:description>
+            <media:thumbnail url="thumbs/IMG_0278.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0278.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/23/07 5:01 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0278.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0279</title>
+            <link>slides/IMG_0279.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Big birds in my back yard.</description>
+            <media:description type="html">Big birds in my back yard.</media:description>
+            <media:thumbnail url="thumbs/IMG_0279.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0279.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 9:03 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0279.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0280</title>
+            <link>slides/IMG_0280.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Big birds in my back yard.</description>
+            <media:description type="html">Big birds in my back yard.</media:description>
+            <media:thumbnail url="thumbs/IMG_0280.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0280.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 9:03 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0280.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0281</title>
+            <link>slides/IMG_0281.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Big birds in my back yard.</description>
+            <media:description type="html">Big birds in my back yard.</media:description>
+            <media:thumbnail url="thumbs/IMG_0281.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0281.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 9:03 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0281.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0282</title>
+            <link>slides/IMG_0282.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Big birds in my back yard.</description>
+            <media:description type="html">Big birds in my back yard.</media:description>
+            <media:thumbnail url="thumbs/IMG_0282.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0282.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 9:03 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0282.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0283</title>
+            <link>slides/IMG_0283.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Big birds in my back yard.</description>
+            <media:description type="html">Big birds in my back yard.</media:description>
+            <media:thumbnail url="thumbs/IMG_0283.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0283.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 9:04 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0283.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0284</title>
+            <link>slides/IMG_0284.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Big birds in my back yard.</description>
+            <media:description type="html">Big birds in my back yard.</media:description>
+            <media:thumbnail url="thumbs/IMG_0284.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0284.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 9:04 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0284.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0285</title>
+            <link>slides/IMG_0285.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Big birds in my back yard.</description>
+            <media:description type="html">Big birds in my back yard.</media:description>
+            <media:thumbnail url="thumbs/IMG_0285.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0285.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 9:12 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0285.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0286</title>
+            <link>slides/IMG_0286.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Big birds in my back yard.</description>
+            <media:description type="html">Big birds in my back yard.</media:description>
+            <media:thumbnail url="thumbs/IMG_0286.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0286.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 9:13 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0286.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0287</title>
+            <link>slides/IMG_0287.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Big birds in my back yard.</description>
+            <media:description type="html">Big birds in my back yard.</media:description>
+            <media:thumbnail url="thumbs/IMG_0287.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0287.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 9:43 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0287.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0288</title>
+            <link>slides/IMG_0288.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Big birds in my back yard.</description>
+            <media:description type="html">Big birds in my back yard.</media:description>
+            <media:thumbnail url="thumbs/IMG_0288.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0288.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 9:43 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0288.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0289</title>
+            <link>slides/IMG_0289.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Big birds in my back yard.</description>
+            <media:description type="html">Big birds in my back yard.</media:description>
+            <media:thumbnail url="thumbs/IMG_0289.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0289.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 9:55 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0289.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0290</title>
+            <link>slides/IMG_0290.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Big birds in my back yard.</description>
+            <media:description type="html">Big birds in my back yard.</media:description>
+            <media:thumbnail url="thumbs/IMG_0290.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0290.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 9:55 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0290.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0291</title>
+            <link>slides/IMG_0291.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Big birds in my back yard.</description>
+            <media:description type="html">Big birds in my back yard.</media:description>
+            <media:thumbnail url="thumbs/IMG_0291.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0291.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 9:57 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0291.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0292</title>
+            <link>slides/IMG_0292.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Big birds in my back yard.</description>
+            <media:description type="html">Big birds in my back yard.</media:description>
+            <media:thumbnail url="thumbs/IMG_0292.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0292.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 9:57 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0292.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0293</title>
+            <link>slides/IMG_0293.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Big birds in my back yard.</description>
+            <media:description type="html">Big birds in my back yard.</media:description>
+            <media:thumbnail url="thumbs/IMG_0293.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0293.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 9:58 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0293.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0294</title>
+            <link>slides/IMG_0294.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Big birds in my back yard.</description>
+            <media:description type="html">Big birds in my back yard.</media:description>
+            <media:thumbnail url="thumbs/IMG_0294.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0294.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 9:58 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0294.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0295</title>
+            <link>slides/IMG_0295.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Big birds in my back yard.</description>
+            <media:description type="html">Big birds in my back yard.</media:description>
+            <media:thumbnail url="thumbs/IMG_0295.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0295.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 9:58 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0295.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0296</title>
+            <link>slides/IMG_0296.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Big birds in my back yard.</description>
+            <media:description type="html">Big birds in my back yard.</media:description>
+            <media:thumbnail url="thumbs/IMG_0296.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0296.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 10:23 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0296.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0297</title>
+            <link>slides/IMG_0297.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Big birds in my back yard.</description>
+            <media:description type="html">Big birds in my back yard.</media:description>
+            <media:thumbnail url="thumbs/IMG_0297.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0297.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 10:23 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0297.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0298</title>
+            <link>slides/IMG_0298.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Big birds in my back yard.</description>
+            <media:description type="html">Big birds in my back yard.</media:description>
+            <media:thumbnail url="thumbs/IMG_0298.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0298.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 11:07 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0298.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0299</title>
+            <link>slides/IMG_0299.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Big birds in my back yard.</description>
+            <media:description type="html">Big birds in my back yard.</media:description>
+            <media:thumbnail url="thumbs/IMG_0299.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0299.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 11:07 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0299.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0300</title>
+            <link>slides/IMG_0300.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Big birds in my back yard. Note alligator in the lake above his head.</description>
+            <media:description type="html">Big birds in my back yard. Note alligator in the lake above his head.</media:description>
+            <media:thumbnail url="thumbs/IMG_0300.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0300.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 11:12 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0300.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0301</title>
+            <link>slides/IMG_0301.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Big birds in my back yard. Note alligator in the lake above his head.</description>
+            <media:description type="html">Big birds in my back yard. Note alligator in the lake above his head.</media:description>
+            <media:thumbnail url="thumbs/IMG_0301.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0301.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 11:12 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0301.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0302</title>
+            <link>slides/IMG_0302.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Big bird.</description>
+            <media:description type="html">Big bird.</media:description>
+            <media:thumbnail url="thumbs/IMG_0302.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0302.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 11:13 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0302.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0303</title>
+            <link>slides/IMG_0303.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Big bird.</description>
+            <media:description type="html">Big bird.</media:description>
+            <media:thumbnail url="thumbs/IMG_0303.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0303.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 11:13 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0303.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0305</title>
+            <link>slides/IMG_0305.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Big bird.</description>
+            <media:description type="html">Big bird.</media:description>
+            <media:thumbnail url="thumbs/IMG_0305.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0305.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 11:13 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0305.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0306</title>
+            <link>slides/IMG_0306.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Big bird.</description>
+            <media:description type="html">Big bird.</media:description>
+            <media:thumbnail url="thumbs/IMG_0306.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0306.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 11:13 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0306.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0307</title>
+            <link>slides/IMG_0307.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Big bird. Alligator in lake.</description>
+            <media:description type="html">Big bird. Alligator in lake.</media:description>
+            <media:thumbnail url="thumbs/IMG_0307.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0307.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 11:14 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0307.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0308</title>
+            <link>slides/IMG_0308.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Big bird. Alligator in lake.</description>
+            <media:description type="html">Big bird. Alligator in lake.</media:description>
+            <media:thumbnail url="thumbs/IMG_0308.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0308.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/25/07 11:14 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0308.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0309</title>
+            <link>slides/IMG_0309.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Memorial day dinner.</description>
+            <media:description type="html">Memorial day dinner.</media:description>
+            <media:thumbnail url="thumbs/IMG_0309.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0309.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/26/07 8:07 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0309.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0311</title>
+            <link>slides/IMG_0311.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Memorial day dinner.</description>
+            <media:description type="html">Memorial day dinner.</media:description>
+            <media:thumbnail url="thumbs/IMG_0311.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0311.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/26/07 8:08 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0311.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0312</title>
+            <link>slides/IMG_0312.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Sunset.</description>
+            <media:description type="html">Sunset.</media:description>
+            <media:thumbnail url="thumbs/IMG_0312.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0312.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/29/07 8:01 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0312.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0313</title>
+            <link>slides/IMG_0313.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Ho-hum, just another sunset.</description>
+            <media:description type="html">Ho-hum, just another sunset.</media:description>
+            <media:thumbnail url="thumbs/IMG_0313.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0313.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/29/07 8:02 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0313.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0314</title>
+            <link>slides/IMG_0314.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>Sand Hill cranes still hanging out.</description>
+            <media:description type="html">Sand Hill cranes still hanging out.</media:description>
+            <media:thumbnail url="thumbs/IMG_0314.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0314.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/29/07 8:05 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0314.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0315</title>
+            <link>slides/IMG_0315.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>St. Augustine</description>
+            <media:description type="html">St. Augustine</media:description>
+            <media:thumbnail url="thumbs/IMG_0315.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0315.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 2:36 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0315.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0316</title>
+            <link>slides/IMG_0316.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>St. Augustine</description>
+            <media:description type="html">St. Augustine</media:description>
+            <media:thumbnail url="thumbs/IMG_0316.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0316.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 2:36 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0316.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0317</title>
+            <link>slides/IMG_0317.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>St. Augustine</description>
+            <media:description type="html">St. Augustine</media:description>
+            <media:thumbnail url="thumbs/IMG_0317.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0317.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 2:52 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0317.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0318</title>
+            <link>slides/IMG_0318.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>St. Augustine</description>
+            <media:description type="html">St. Augustine</media:description>
+            <media:thumbnail url="thumbs/IMG_0318.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0318.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 2:52 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0318.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0319</title>
+            <link>slides/IMG_0319.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>St. Augustine</description>
+            <media:description type="html">St. Augustine</media:description>
+            <media:thumbnail url="thumbs/IMG_0319.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0319.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 3:00 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0319.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0320</title>
+            <link>slides/IMG_0320.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>St. Augustine. Casa Monica, hotel.</description>
+            <media:description type="html">St. Augustine. Casa Monica, hotel.</media:description>
+            <media:thumbnail url="thumbs/IMG_0320.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0320.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 3:39 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0320.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0321</title>
+            <link>slides/IMG_0321.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>St. Augustine.</description>
+            <media:description type="html">St. Augustine.</media:description>
+            <media:thumbnail url="thumbs/IMG_0321.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0321.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 3:40 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0321.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0322</title>
+            <link>slides/IMG_0322.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>St. Augustine</description>
+            <media:description type="html">St. Augustine</media:description>
+            <media:thumbnail url="thumbs/IMG_0322.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0322.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 3:40 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0322.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0323</title>
+            <link>slides/IMG_0323.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>St. Augustine</description>
+            <media:description type="html">St. Augustine</media:description>
+            <media:thumbnail url="thumbs/IMG_0323.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0323.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 3:42 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0323.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0324</title>
+            <link>slides/IMG_0324.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>St. Augustine</description>
+            <media:description type="html">St. Augustine</media:description>
+            <media:thumbnail url="thumbs/IMG_0324.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0324.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 3:42 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0324.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0325</title>
+            <link>slides/IMG_0325.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>St. Augustine</description>
+            <media:description type="html">St. Augustine</media:description>
+            <media:thumbnail url="thumbs/IMG_0325.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0325.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 3:45 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0325.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0326</title>
+            <link>slides/IMG_0326.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>St. Augustine</description>
+            <media:description type="html">St. Augustine</media:description>
+            <media:thumbnail url="thumbs/IMG_0326.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0326.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 3:45 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0326.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0327</title>
+            <link>slides/IMG_0327.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>St. Augustine</description>
+            <media:description type="html">St. Augustine</media:description>
+            <media:thumbnail url="thumbs/IMG_0327.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0327.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 3:45 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0327.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0328</title>
+            <link>slides/IMG_0328.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>St. Augustine</description>
+            <media:description type="html">St. Augustine</media:description>
+            <media:thumbnail url="thumbs/IMG_0328.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0328.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 4:06 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0328.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0329</title>
+            <link>slides/IMG_0329.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>St. Augustine</description>
+            <media:description type="html">St. Augustine</media:description>
+            <media:thumbnail url="thumbs/IMG_0329.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0329.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 4:06 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0329.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0334</title>
+            <link>slides/IMG_0334.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>St. Augustine</description>
+            <media:description type="html">St. Augustine</media:description>
+            <media:thumbnail url="thumbs/IMG_0334.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0334.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 4:08 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0334.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0335</title>
+            <link>slides/IMG_0335.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>St. Augustine</description>
+            <media:description type="html">St. Augustine</media:description>
+            <media:thumbnail url="thumbs/IMG_0335.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0335.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 4:08 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0335.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0336</title>
+            <link>slides/IMG_0336.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>St. Augustine</description>
+            <media:description type="html">St. Augustine</media:description>
+            <media:thumbnail url="thumbs/IMG_0336.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0336.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 4:08 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0336.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0337</title>
+            <link>slides/IMG_0337.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>St. Augustine</description>
+            <media:description type="html">St. Augustine</media:description>
+            <media:thumbnail url="thumbs/IMG_0337.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0337.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 4:09 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0337.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0338</title>
+            <link>slides/IMG_0338.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>St. Augustine</description>
+            <media:description type="html">St. Augustine</media:description>
+            <media:thumbnail url="thumbs/IMG_0338.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0338.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 4:09 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0338.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0339</title>
+            <link>slides/IMG_0339.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>St. Augustine</description>
+            <media:description type="html">St. Augustine</media:description>
+            <media:thumbnail url="thumbs/IMG_0339.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0339.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 4:10 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0339.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0340</title>
+            <link>slides/IMG_0340.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>St. Augustine</description>
+            <media:description type="html">St. Augustine</media:description>
+            <media:thumbnail url="thumbs/IMG_0340.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0340.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 4:10 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0340.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0341</title>
+            <link>slides/IMG_0341.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>St. Augustine</description>
+            <media:description type="html">St. Augustine</media:description>
+            <media:thumbnail url="thumbs/IMG_0341.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0341.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 4:10 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0341.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0342</title>
+            <link>slides/IMG_0342.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>St. Augustine</description>
+            <media:description type="html">St. Augustine</media:description>
+            <media:thumbnail url="thumbs/IMG_0342.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0342.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 4:11 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0342.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0344</title>
+            <link>slides/IMG_0344.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>St. Augustine</description>
+            <media:description type="html">St. Augustine</media:description>
+            <media:thumbnail url="thumbs/IMG_0344.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0344.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 5:21 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0344.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0345</title>
+            <link>slides/IMG_0345.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>St. Augustine</description>
+            <media:description type="html">St. Augustine</media:description>
+            <media:thumbnail url="thumbs/IMG_0345.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0345.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 5:21 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0345.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0346</title>
+            <link>slides/IMG_0346.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>St. Augustine</description>
+            <media:description type="html">St. Augustine</media:description>
+            <media:thumbnail url="thumbs/IMG_0346.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0346.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 5:21 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0346.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0347</title>
+            <link>slides/IMG_0347.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>St. Augustine</description>
+            <media:description type="html">St. Augustine</media:description>
+            <media:thumbnail url="thumbs/IMG_0347.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0347.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 5:22 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0347.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0348</title>
+            <link>slides/IMG_0348.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>St. Augustine</description>
+            <media:description type="html">St. Augustine</media:description>
+            <media:thumbnail url="thumbs/IMG_0348.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0348.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 5:22 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0348.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0349</title>
+            <link>slides/IMG_0349.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>St. Augustine</description>
+            <media:description type="html">St. Augustine</media:description>
+            <media:thumbnail url="thumbs/IMG_0349.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0349.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 5:22 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0349.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0350</title>
+            <link>slides/IMG_0350.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>St. Augustine</description>
+            <media:description type="html">St. Augustine</media:description>
+            <media:thumbnail url="thumbs/IMG_0350.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0350.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 5:22 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0350.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0352</title>
+            <link>slides/IMG_0352.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>St. Augustine</description>
+            <media:description type="html">St. Augustine</media:description>
+            <media:thumbnail url="thumbs/IMG_0352.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0352.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 5:24 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0352.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0353</title>
+            <link>slides/IMG_0353.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:01 -0400</pubDate>
+            <description>St. Augustine</description>
+            <media:description type="html">St. Augustine</media:description>
+            <media:thumbnail url="thumbs/IMG_0353.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_0353.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/30/07 5:24 PM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_0353.JPG</guid>
+        </item>
+        
+    </channel>
+</rss>

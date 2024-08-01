@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>02-February</title>
+   	<link>../..</link>
+        <generator>Jalbum 8.2</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>IMG_1512</title>
+            <link>slides/IMG_1512.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:28 -0400</pubDate>
+            <description>Original Jaguar dashboard.</description>
+            <media:description type="html">Original Jaguar dashboard.</media:description>
+            <media:thumbnail url="thumbs/IMG_1512.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1512.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="2/11/09 11:00 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_1512.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1514</title>
+            <link>slides/IMG_1514.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:28 -0400</pubDate>
+            <description>Just got in new guages.</description>
+            <media:description type="html">Just got in new guages.</media:description>
+            <media:thumbnail url="thumbs/IMG_1514.JPG" width="124" height="93"/>
+            <media:content url="slides/IMG_1514.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="2/18/09 10:55 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/IMG_1514.JPG</guid>
+        </item>
+        
+        <item>
+            <title>img_1513</title>
+            <link>slides/img_1513.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:38:28 -0400</pubDate>
+            <description>Original Jaguar dashboard, closeup.</description>
+            <media:description type="html">Original Jaguar dashboard, closeup.</media:description>
+            <media:thumbnail url="thumbs/img_1513.jpg" width="124" height="93"/>
+            <media:content url="slides/img_1513.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="2/11/09 11:00 AM" cameraMake="Canon" cameraModel="Canon PowerShot A520"/>
+            <guid isPermaLink="false">slides/img_1513.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>
