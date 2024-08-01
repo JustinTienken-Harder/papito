@@ -1,0 +1,34 @@
+# This file is created by JAlbum. It sets custom file filtering and ordering for this image directory.
+# Each row indicate a file and it's order. Files not listed here are added to the end of the album
+# Rows beginning with "-" indicate excluded files.
+# Rows containing a tab character indicate links, where the text before the tab is the logical file name
+ and the path to the right is the target path.
+# Note: This file allows absolute paths to files and directories in other locations and thereby
+# allows you to compile albums consisting of files from several different locations.
+
+AirforceOne.jpg
+JeromeAZ.jpg
+Midway.jpg
+OakCreek1.jpg
+OakCreek2.jpg
+OakCreek3.jpg
+OvalOffice1.jpg
+OvalOffice2.jpg
+OvalOffice3.jpg
+pano2698.jpg
+pano2720.jpg
+pano2754.jpg
+pano2762.jpg
+pano2777.jpg
+pano2785.jpg
+pano2852.jpg
+pano2866.jpg
+pano2881.jpg
+pano2887.jpg
+pano2902.jpg
+SanDiego-2Bay.jpg
+SanDiego-2Coronado2.jpg
+SanDiego-2Downtown.jpg
+Sedona.jpg
+SunScreenRoom.jpg
+ValleyVerde.jpg
