@@ -1,0 +1,79 @@
+/*
+ * Combined style sheet for the index pages and the slide pages.
+ */
+
+/* Style for all bodies. */
+body {
+	font-size: 13px;
+	background-color: #aaaaaa;
+	color: #000000;
+	margin: 5;
+}
+
+/* Style for all table cells. */
+td {
+	font-size: 10px;
+}
+
+/* Put a border on all generated images */
+.image {
+	border-width: 2;
+	border-color: #eeeeee;
+	border-style: outset;
+	margin: 5;
+}
+
+/* Align the content of the cells on the index pages to the center and bottom. */
+#index td {
+	text-align: center;
+	vertical-align: bottom;
+}
+
+/* Remove the margin under the images on the index pages. */
+#index .image {
+	margin-left: 2;
+	margin-right: 2;
+	margin-bottom: 0;
+}
+
+/* Don't have margins on the slide pages. */
+body#slide {
+	margin: 0;
+}
+
+/* Highlight the image name on the slide pages. */
+#slide .name {
+	font-weight: bold;
+	font-size: 14px;
+}
+
+/* Header */
+h1 {
+	font-size: 30px;
+	font-weight: bold;
+}
+
+/* Custom link styles */
+a:active {
+	text-decoration: none;
+	color: #FF0000
+}
+
+a:visited {
+	text-decoration: none;
+	color: #000088
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #FF5500
+}
+
+a:link {
+	text-decoration: none;
+	color: #0000FF
+}
+
+#imageinfo {
+	visibility: hidden;
+}
