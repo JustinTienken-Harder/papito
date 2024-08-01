@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>01-January</title>
+   	<link>../..</link>
+        <generator>Jalbum 8.2</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>PICT3083</title>
+            <link>slides/PICT3083.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:37:27 -0400</pubDate>
+            <description>President Richard Nixon gravesite</description>
+            <media:description type="html">President Richard Nixon gravesite</media:description>
+            <media:thumbnail url="thumbs/PICT3083.JPG" width="124" height="93"/>
+            <media:content url="slides/PICT3083.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="1/5/06 12:55 PM" cameraMake="KONICA" cameraModel="KD-300Z"/>
+            <guid isPermaLink="false">slides/PICT3083.JPG</guid>
+        </item>
+        
+        <item>
+            <title>PICT3084</title>
+            <link>slides/PICT3084.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:37:27 -0400</pubDate>
+            <description>First Lady Patricia Nixon gravesite</description>
+            <media:description type="html">First Lady Patricia Nixon gravesite</media:description>
+            <media:thumbnail url="thumbs/PICT3084.JPG" width="124" height="93"/>
+            <media:content url="slides/PICT3084.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="1/5/06 12:55 PM" cameraMake="KONICA" cameraModel="KD-300Z"/>
+            <guid isPermaLink="false">slides/PICT3084.JPG</guid>
+        </item>
+        
+        <item>
+            <title>PICT3085</title>
+            <link>slides/PICT3085.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:37:27 -0400</pubDate>
+            <description>Nixon burial site and birthplace. Yorba Linda, California.</description>
+            <media:description type="html">Nixon burial site and birthplace. Yorba Linda, California.</media:description>
+            <media:thumbnail url="thumbs/PICT3085.JPG" width="124" height="93"/>
+            <media:content url="slides/PICT3085.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="1/5/06 12:55 PM" cameraMake="KONICA" cameraModel="KD-300Z"/>
+            <guid isPermaLink="false">slides/PICT3085.JPG</guid>
+        </item>
+        
+        <item>
+            <title>PICT3086</title>
+            <link>slides/PICT3086.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:37:27 -0400</pubDate>
+            <description>Nixon Birthplace in Yorba Linda, California.</description>
+            <media:description type="html">Nixon Birthplace in Yorba Linda, California.</media:description>
+            <media:thumbnail url="thumbs/PICT3086.JPG" width="124" height="93"/>
+            <media:content url="slides/PICT3086.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="1/5/06 12:56 PM" cameraMake="KONICA" cameraModel="KD-300Z"/>
+            <guid isPermaLink="false">slides/PICT3086.JPG</guid>
+        </item>
+        
+        <item>
+            <title>PICT3087</title>
+            <link>slides/PICT3087.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:37:27 -0400</pubDate>
+            <description>President Nixon Library Yorba Linda, California.</description>
+            <media:description type="html">President Nixon Library Yorba Linda, California.</media:description>
+            <media:thumbnail url="thumbs/PICT3087.JPG" width="124" height="93"/>
+            <media:content url="slides/PICT3087.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="1/5/06 12:56 PM" cameraMake="KONICA" cameraModel="KD-300Z"/>
+            <guid isPermaLink="false">slides/PICT3087.JPG</guid>
+        </item>
+        
+        <item>
+            <title>PICT3088</title>
+            <link>slides/PICT3088.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:37:27 -0400</pubDate>
+            <description>Ho-hum just another typical San Diego sunset.</description>
+            <media:description type="html">Ho-hum just another typical San Diego sunset.</media:description>
+            <media:thumbnail url="thumbs/PICT3088.JPG" width="124" height="93"/>
+            <media:content url="slides/PICT3088.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="1/5/06 5:09 PM" cameraMake="KONICA" cameraModel="KD-300Z"/>
+            <guid isPermaLink="false">slides/PICT3088.JPG</guid>
+        </item>
+        
+        <item>
+            <title>PICT3093</title>
+            <link>slides/PICT3093.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:37:27 -0400</pubDate>
+            <description>Mission bay at dusk.</description>
+            <media:description type="html">Mission bay at dusk.</media:description>
+            <media:thumbnail url="thumbs/PICT3093.JPG" width="124" height="93"/>
+            <media:content url="slides/PICT3093.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="1/5/06 5:13 PM" cameraMake="KONICA" cameraModel="KD-300Z"/>
+            <guid isPermaLink="false">slides/PICT3093.JPG</guid>
+        </item>
+        
+    </channel>
+</rss>

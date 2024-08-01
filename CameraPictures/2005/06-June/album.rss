@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>06-June</title>
+   	<link>../..</link>
+        <generator>Jalbum 8.2</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>PICT2788</title>
+            <link>slides/PICT2788.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:37:23 -0400</pubDate>
+            <description>Lake Shepard</description>
+            <media:description type="html">Lake Shepard</media:description>
+            <media:thumbnail url="thumbs/PICT2788.JPG" width="124" height="93"/>
+            <media:content url="slides/PICT2788.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/27/05 12:37 PM" cameraMake="KONICA" cameraModel="KD-300Z"/>
+            <guid isPermaLink="false">slides/PICT2788.JPG</guid>
+        </item>
+        
+        <item>
+            <title>PICT2789</title>
+            <link>slides/PICT2789.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:37:23 -0400</pubDate>
+            <description>Lake Shepard</description>
+            <media:description type="html">Lake Shepard</media:description>
+            <media:thumbnail url="thumbs/PICT2789.JPG" width="124" height="93"/>
+            <media:content url="slides/PICT2789.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/27/05 12:37 PM" cameraMake="KONICA" cameraModel="KD-300Z"/>
+            <guid isPermaLink="false">slides/PICT2789.JPG</guid>
+        </item>
+        
+        <item>
+            <title>PICT2790</title>
+            <link>slides/PICT2790.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:37:23 -0400</pubDate>
+            <description>Lake Shepard neighborhood</description>
+            <media:description type="html">Lake Shepard neighborhood</media:description>
+            <media:thumbnail url="thumbs/PICT2790.JPG" width="124" height="93"/>
+            <media:content url="slides/PICT2790.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/27/05 12:37 PM" cameraMake="KONICA" cameraModel="KD-300Z"/>
+            <guid isPermaLink="false">slides/PICT2790.JPG</guid>
+        </item>
+        
+        <item>
+            <title>PICT2791</title>
+            <link>slides/PICT2791.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:37:23 -0400</pubDate>
+            <description>Lake Shepard neighborhood</description>
+            <media:description type="html">Lake Shepard neighborhood</media:description>
+            <media:thumbnail url="thumbs/PICT2791.JPG" width="124" height="93"/>
+            <media:content url="slides/PICT2791.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/27/05 12:37 PM" cameraMake="KONICA" cameraModel="KD-300Z"/>
+            <guid isPermaLink="false">slides/PICT2791.JPG</guid>
+        </item>
+        
+        <item>
+            <title>PICT2792</title>
+            <link>slides/PICT2792.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:37:23 -0400</pubDate>
+            <description>Lake Shepard neighborhood</description>
+            <media:description type="html">Lake Shepard neighborhood</media:description>
+            <media:thumbnail url="thumbs/PICT2792.JPG" width="124" height="93"/>
+            <media:content url="slides/PICT2792.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/27/05 12:37 PM" cameraMake="KONICA" cameraModel="KD-300Z"/>
+            <guid isPermaLink="false">slides/PICT2792.JPG</guid>
+        </item>
+        
+        <item>
+            <title>PICT2793</title>
+            <link>slides/PICT2793.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:37:23 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/PICT2793.JPG" width="124" height="93"/>
+            <media:content url="slides/PICT2793.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="5/27/05 12:38 PM" cameraMake="KONICA" cameraModel="KD-300Z"/>
+            <guid isPermaLink="false">slides/PICT2793.JPG</guid>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>2002</title>
+   	<link>..</link>
+        <generator>Jalbum 8.2</generator>
+   		<description></description>
+        
+    	<jalbum:link rel="sub" href="10-October/album.rss" />   	
+    	<jalbum:link rel="sub" href="10-October/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="11-November/album.rss" />   	
+    	<jalbum:link rel="sub" href="11-November/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="12-December/album.rss" />   	
+    	<jalbum:link rel="sub" href="12-December/album.rss" />   	
+    	
+        
+    </channel>
+</rss>

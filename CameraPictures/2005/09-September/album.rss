@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>09-September</title>
+   	<link>../..</link>
+        <generator>Jalbum 8.2</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>PICT2950</title>
+            <link>slides/PICT2950.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:37:25 -0400</pubDate>
+            <description>Mini-me and Pito in Tia Juana Costco.</description>
+            <media:description type="html">Mini-me and Pito in Tia Juana Costco.</media:description>
+            <media:thumbnail url="thumbs/PICT2950.JPG" width="124" height="93"/>
+            <media:content url="slides/PICT2950.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="9/29/05 12:03 PM" cameraMake="KONICA" cameraModel="KD-300Z"/>
+            <guid isPermaLink="false">slides/PICT2950.JPG</guid>
+        </item>
+        
+        <item>
+            <title>PICT2951</title>
+            <link>slides/PICT2951.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:37:25 -0400</pubDate>
+            <description>Mini-me and Pito in Tia Juana Costco.</description>
+            <media:description type="html">Mini-me and Pito in Tia Juana Costco.</media:description>
+            <media:thumbnail url="thumbs/PICT2951.JPG" width="124" height="93"/>
+            <media:content url="slides/PICT2951.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="9/29/05 12:03 PM" cameraMake="KONICA" cameraModel="KD-300Z"/>
+            <guid isPermaLink="false">slides/PICT2951.JPG</guid>
+        </item>
+        
+        <item>
+            <title>PICT2952</title>
+            <link>slides/PICT2952.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:37:25 -0400</pubDate>
+            <description>Elizabeth, Ruby, Alba and Marga watching Spanish Novela</description>
+            <media:description type="html">Elizabeth, Ruby, Alba and Marga watching Spanish Novela</media:description>
+            <media:thumbnail url="thumbs/PICT2952.JPG" width="124" height="93"/>
+            <media:content url="slides/PICT2952.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="10/2/05 4:43 PM" cameraMake="KONICA" cameraModel="KD-300Z"/>
+            <guid isPermaLink="false">slides/PICT2952.JPG</guid>
+        </item>
+        
+        <item>
+            <title>PICT2953</title>
+            <link>slides/PICT2953.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:37:25 -0400</pubDate>
+            <description>Elizabeth, Ruby, Alba and Marga watching Spanish Novela</description>
+            <media:description type="html">Elizabeth, Ruby, Alba and Marga watching Spanish Novela</media:description>
+            <media:thumbnail url="thumbs/PICT2953.JPG" width="124" height="93"/>
+            <media:content url="slides/PICT2953.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="10/2/05 4:43 PM" cameraMake="KONICA" cameraModel="KD-300Z"/>
+            <guid isPermaLink="false">slides/PICT2953.JPG</guid>
+        </item>
+        
+        <item>
+            <title>PICT2954</title>
+            <link>slides/PICT2954.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:37:25 -0400</pubDate>
+            <description>Elizabeth, Ruby, Alba and Marga watching Spanish Novela</description>
+            <media:description type="html">Elizabeth, Ruby, Alba and Marga watching Spanish Novela</media:description>
+            <media:thumbnail url="thumbs/PICT2954.JPG" width="124" height="93"/>
+            <media:content url="slides/PICT2954.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="10/2/05 4:43 PM" cameraMake="KONICA" cameraModel="KD-300Z"/>
+            <guid isPermaLink="false">slides/PICT2954.JPG</guid>
+        </item>
+        
+    </channel>
+</rss>

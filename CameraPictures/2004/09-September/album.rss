@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>09-September</title>
+   	<link>../..</link>
+        <generator>Jalbum 8.2</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>PICT2300</title>
+            <link>slides/PICT2300.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:37:17 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/PICT2300.JPG" width="93" height="124"/>
+            <media:content url="slides/PICT2300.JPG" width="600" height="800"/>
+            
+            <jalbum:exif originalDate="9/6/04 3:04 PM" cameraMake="KONICA" cameraModel="KD-300Z"/>
+            <guid isPermaLink="false">slides/PICT2300.JPG</guid>
+        </item>
+        
+        <item>
+            <title>PICT2301</title>
+            <link>slides/PICT2301.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:37:17 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/PICT2301.JPG" width="93" height="124"/>
+            <media:content url="slides/PICT2301.JPG" width="600" height="800"/>
+            
+            <jalbum:exif originalDate="9/6/04 3:04 PM" cameraMake="KONICA" cameraModel="KD-300Z"/>
+            <guid isPermaLink="false">slides/PICT2301.JPG</guid>
+        </item>
+        
+        <item>
+            <title>PICT2302</title>
+            <link>slides/PICT2302.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:37:17 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/PICT2302.JPG" width="93" height="124"/>
+            <media:content url="slides/PICT2302.JPG" width="600" height="800"/>
+            
+            <jalbum:exif originalDate="9/6/04 3:04 PM" cameraMake="KONICA" cameraModel="KD-300Z"/>
+            <guid isPermaLink="false">slides/PICT2302.JPG</guid>
+        </item>
+        
+        <item>
+            <title>PICT2303</title>
+            <link>slides/PICT2303.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:37:17 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/PICT2303.JPG" width="93" height="124"/>
+            <media:content url="slides/PICT2303.JPG" width="600" height="800"/>
+            
+            <jalbum:exif originalDate="9/6/04 3:05 PM" cameraMake="KONICA" cameraModel="KD-300Z"/>
+            <guid isPermaLink="false">slides/PICT2303.JPG</guid>
+        </item>
+        
+        <item>
+            <title>PICT2304</title>
+            <link>slides/PICT2304.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:37:17 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/PICT2304.JPG" width="93" height="124"/>
+            <media:content url="slides/PICT2304.JPG" width="600" height="800"/>
+            
+            <jalbum:exif originalDate="9/6/04 3:05 PM" cameraMake="KONICA" cameraModel="KD-300Z"/>
+            <guid isPermaLink="false">slides/PICT2304.JPG</guid>
+        </item>
+        
+        <item>
+            <title>PICT2305</title>
+            <link>slides/PICT2305.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:37:17 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/PICT2305.JPG" width="93" height="124"/>
+            <media:content url="slides/PICT2305.JPG" width="600" height="800"/>
+            
+            <jalbum:exif originalDate="9/6/04 3:06 PM" cameraMake="KONICA" cameraModel="KD-300Z"/>
+            <guid isPermaLink="false">slides/PICT2305.JPG</guid>
+        </item>
+        
+    </channel>
+</rss>

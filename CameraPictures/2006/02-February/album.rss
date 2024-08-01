@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>02-February</title>
+   	<link>../..</link>
+        <generator>Jalbum 8.2</generator>
+   		<description></description>
+        
+    	<jalbum:link rel="sub" href="canon/album.rss" />   	
+    	<jalbum:link rel="sub" href="canon/album.rss" />   	
+    	
+        
+        <item>
+            <title>PICT3095</title>
+            <link>slides/PICT3095.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:37:27 -0400</pubDate>
+            <description>Living room, new mirror</description>
+            <media:description type="html">Living room, new mirror</media:description>
+            <media:thumbnail url="thumbs/PICT3095.JPG" width="124" height="93"/>
+            <media:content url="slides/PICT3095.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="2/14/06 8:41 AM" cameraMake="KONICA" cameraModel="KD-300Z"/>
+            <guid isPermaLink="false">slides/PICT3095.JPG</guid>
+        </item>
+        
+        <item>
+            <title>PICT3096</title>
+            <link>slides/PICT3096.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:37:27 -0400</pubDate>
+            <description>New dining room lamp.</description>
+            <media:description type="html">New dining room lamp.</media:description>
+            <media:thumbnail url="thumbs/PICT3096.JPG" width="124" height="93"/>
+            <media:content url="slides/PICT3096.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="2/14/06 8:42 AM" cameraMake="KONICA" cameraModel="KD-300Z"/>
+            <guid isPermaLink="false">slides/PICT3096.JPG</guid>
+        </item>
+        
+        <item>
+            <title>PICT3099</title>
+            <link>slides/PICT3099.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:37:27 -0400</pubDate>
+            <description>New dining room lamp.</description>
+            <media:description type="html">New dining room lamp.</media:description>
+            <media:thumbnail url="thumbs/PICT3099.JPG" width="124" height="93"/>
+            <media:content url="slides/PICT3099.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="2/14/06 8:43 AM" cameraMake="KONICA" cameraModel="KD-300Z"/>
+            <guid isPermaLink="false">slides/PICT3099.JPG</guid>
+        </item>
+        
+        <item>
+            <title>PICT3106</title>
+            <link>slides/PICT3106.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:37:27 -0400</pubDate>
+            <description>New mirror in living room.</description>
+            <media:description type="html">New mirror in living room.</media:description>
+            <media:thumbnail url="thumbs/PICT3106.JPG" width="124" height="93"/>
+            <media:content url="slides/PICT3106.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="2/14/06 8:45 AM" cameraMake="KONICA" cameraModel="KD-300Z"/>
+            <guid isPermaLink="false">slides/PICT3106.JPG</guid>
+        </item>
+        
+        <item>
+            <title>PICT3110</title>
+            <link>slides/PICT3110.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:37:27 -0400</pubDate>
+            <description>West Orange bike trail</description>
+            <media:description type="html">West Orange bike trail</media:description>
+            <media:thumbnail url="thumbs/PICT3110.JPG" width="124" height="93"/>
+            <media:content url="slides/PICT3110.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="2/18/06 11:01 AM" cameraMake="KONICA" cameraModel="KD-300Z"/>
+            <guid isPermaLink="false">slides/PICT3110.JPG</guid>
+        </item>
+        
+        <item>
+            <title>PICT3111</title>
+            <link>slides/PICT3111.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:37:27 -0400</pubDate>
+            <description>Townie bike at head of Wikiva trail</description>
+            <media:description type="html">Townie bike at head of Wikiva trail</media:description>
+            <media:thumbnail url="thumbs/PICT3111.JPG" width="124" height="93"/>
+            <media:content url="slides/PICT3111.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="2/28/06 2:16 PM" cameraMake="KONICA" cameraModel="KD-300Z"/>
+            <guid isPermaLink="false">slides/PICT3111.JPG</guid>
+        </item>
+        
+        <item>
+            <title>PICT3112</title>
+            <link>slides/PICT3112.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:37:27 -0400</pubDate>
+            <description>Wikiva trail bridge over I-4 by Sanford.</description>
+            <media:description type="html">Wikiva trail bridge over I-4 by Sanford.</media:description>
+            <media:thumbnail url="thumbs/PICT3112.JPG" width="124" height="93"/>
+            <media:content url="slides/PICT3112.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="2/28/06 3:16 PM" cameraMake="KONICA" cameraModel="KD-300Z"/>
+            <guid isPermaLink="false">slides/PICT3112.JPG</guid>
+        </item>
+        
+        <item>
+            <title>PICT3113</title>
+            <link>slides/PICT3113.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:37:27 -0400</pubDate>
+            <description>Wikiva trail bridge over I-4 by Sanford.</description>
+            <media:description type="html">Wikiva trail bridge over I-4 by Sanford.</media:description>
+            <media:thumbnail url="thumbs/PICT3113.JPG" width="124" height="93"/>
+            <media:content url="slides/PICT3113.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="2/28/06 3:17 PM" cameraMake="KONICA" cameraModel="KD-300Z"/>
+            <guid isPermaLink="false">slides/PICT3113.JPG</guid>
+        </item>
+        
+        <item>
+            <title>PICT3114</title>
+            <link>slides/PICT3114.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:37:27 -0400</pubDate>
+            <description>Wikiva trail bridge over I-4 by Sanford.</description>
+            <media:description type="html">Wikiva trail bridge over I-4 by Sanford.</media:description>
+            <media:thumbnail url="thumbs/PICT3114.JPG" width="124" height="93"/>
+            <media:content url="slides/PICT3114.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="2/28/06 3:17 PM" cameraMake="KONICA" cameraModel="KD-300Z"/>
+            <guid isPermaLink="false">slides/PICT3114.JPG</guid>
+        </item>
+        
+        <item>
+            <title>PICT3115a</title>
+            <link>slides/PICT3115a.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:37:27 -0400</pubDate>
+            <description>Wikiva trail bridge over I-4 by Sanford.</description>
+            <media:description type="html">Wikiva trail bridge over I-4 by Sanford.</media:description>
+            <media:thumbnail url="thumbs/PICT3115a.JPG" width="94" height="124"/>
+            <media:content url="slides/PICT3115a.JPG" width="608" height="800"/>
+            
+            
+            <guid isPermaLink="false">slides/PICT3115a.JPG</guid>
+        </item>
+        
+        <item>
+            <title>PICT3119</title>
+            <link>slides/PICT3119.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:37:27 -0400</pubDate>
+            <description>I-4 looking South (West)</description>
+            <media:description type="html">I-4 looking South (West)</media:description>
+            <media:thumbnail url="thumbs/PICT3119.JPG" width="124" height="93"/>
+            <media:content url="slides/PICT3119.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="2/28/06 3:18 PM" cameraMake="KONICA" cameraModel="KD-300Z"/>
+            <guid isPermaLink="false">slides/PICT3119.JPG</guid>
+        </item>
+        
+        <item>
+            <title>PICT3120</title>
+            <link>slides/PICT3120.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:37:27 -0400</pubDate>
+            <description>I-4 looking North (East)</description>
+            <media:description type="html">I-4 looking North (East)</media:description>
+            <media:thumbnail url="thumbs/PICT3120.JPG" width="124" height="93"/>
+            <media:content url="slides/PICT3120.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="2/28/06 3:19 PM" cameraMake="KONICA" cameraModel="KD-300Z"/>
+            <guid isPermaLink="false">slides/PICT3120.JPG</guid>
+        </item>
+        
+        <item>
+            <title>PICT3121</title>
+            <link>slides/PICT3121.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:37:27 -0400</pubDate>
+            <description>Sanford side of bridge.</description>
+            <media:description type="html">Sanford side of bridge.</media:description>
+            <media:thumbnail url="thumbs/PICT3121.JPG" width="124" height="93"/>
+            <media:content url="slides/PICT3121.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="2/28/06 3:19 PM" cameraMake="KONICA" cameraModel="KD-300Z"/>
+            <guid isPermaLink="false">slides/PICT3121.JPG</guid>
+        </item>
+        
+        <item>
+            <title>PICT3122</title>
+            <link>slides/PICT3122.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:37:27 -0400</pubDate>
+            <description>Rest stop 11 miles from where I started.</description>
+            <media:description type="html">Rest stop 11 miles from where I started.</media:description>
+            <media:thumbnail url="thumbs/PICT3122.JPG" width="124" height="93"/>
+            <media:content url="slides/PICT3122.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="2/28/06 3:23 PM" cameraMake="KONICA" cameraModel="KD-300Z"/>
+            <guid isPermaLink="false">slides/PICT3122.JPG</guid>
+        </item>
+        
+        <item>
+            <title>PICT3123</title>
+            <link>slides/PICT3123.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:37:27 -0400</pubDate>
+            <description>Rest area, bridge in background.</description>
+            <media:description type="html">Rest area, bridge in background.</media:description>
+            <media:thumbnail url="thumbs/PICT3123.JPG" width="124" height="93"/>
+            <media:content url="slides/PICT3123.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="2/28/06 3:23 PM" cameraMake="KONICA" cameraModel="KD-300Z"/>
+            <guid isPermaLink="false">slides/PICT3123.JPG</guid>
+        </item>
+        
+        <item>
+            <title>PICT3124</title>
+            <link>slides/PICT3124.html</link>
+            <pubDate>Tue, 31 Mar 2009 13:37:27 -0400</pubDate>
+            <description>Wikiva bike trail.</description>
+            <media:description type="html">Wikiva bike trail.</media:description>
+            <media:thumbnail url="thumbs/PICT3124.JPG" width="124" height="93"/>
+            <media:content url="slides/PICT3124.JPG" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="2/28/06 3:53 PM" cameraMake="KONICA" cameraModel="KD-300Z"/>
+            <guid isPermaLink="false">slides/PICT3124.JPG</guid>
+        </item>
+        
+    </channel>
+</rss>
