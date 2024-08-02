@@ -1,0 +1,50 @@
+
+// Gutters
+
+@mixin componentGutters() {
+    margin: 1.4rem;
+}
+
+//  MEDIA QUERIES
+
+@mixin respond($breakpoint) {
+    @if $breakpoint==phone {
+        @media only screen and (max-width: 45em) {
+            @content
+        }
+
+        ; // 720px
+    }
+
+    @if $breakpoint==tab-port {
+        @media only screen and (max-width: 56.25em) {
+            @content
+        }
+
+        ; // 900px
+    }
+
+    @if $breakpoint==tab-land {
+        @media only screen and (max-width: 64em) {
+            @content
+        }
+
+        ; // 1024px
+    }
+
+    @if $breakpoint==desktop {
+        @media only screen and (max-width: 75em) {
+            @content
+        }
+
+        ; // 1200px
+    }
+
+    @if $breakpoint==big-desktop {
+        @media only screen and (min-width: 120em) {
+            @content
+        }
+
+        ; // 1920px
+    }
+}
