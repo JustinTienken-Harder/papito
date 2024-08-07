@@ -1,18 +1,6 @@
 <script setup lang="ts">
 import { RouterLink, RouterView } from 'vue-router'
 import Footer from './components/Footer.vue'
-
-// export default {
-//   data() {
-//     return {
-//       logolocation: logoImg
-//     }
-//   },
-//   components: {
-//     Logo,
-//     Footer
-//   }
-// }
 </script>
 
 <template>
@@ -47,13 +35,15 @@ import Footer from './components/Footer.vue'
   text-align: center;
   color: rgb(98, 113, 111);
   width: 100vw;
-  height: 100vh;
+  height: 130vh;
   box-sizing: border-box;
   padding: 0;
   margin: 0;
   overflow-x: hidden;
   font-size: 62.5%;
-  /* background-image: url('./assets/patterns/escheresque.png'); */
+  background-image: url('./assets/escheresque.png');
+  background-attachment: fixed;
+  background-repeat: repeat;
   scroll-behavior: smooth;
 }
 #navBar {
