@@ -7,15 +7,13 @@
 </template>
 
 <script>
-    export default {
-        
-    }
+  
 </script>
 
 <style lang="scss">
 @import '../assets/mixins.scss';
     footer {
-        position: absolute;
+        position: fixed;
         bottom:0;
         width: 100vw;
         background-color: #2c3e50;
