@@ -27,13 +27,14 @@ import Footer from './components/Footer.vue'
 </template>
 
 <style lang="scss" scoped>
+@import './assets/base.scss';
 @import './assets/mixins.scss';
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: rgb(98, 113, 111);
+  color: $color-primary-dark;
   width: 100vw;
   height: 130vh;
   box-sizing: border-box;
