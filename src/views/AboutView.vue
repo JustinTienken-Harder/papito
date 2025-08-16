@@ -1,8 +1,13 @@
 <template>
   <div class="about">
+    <Gallery />
     <h1>This is an about page</h1>
   </div>
 </template>
+
+<script setup>
+import Gallery from '@/components/Gallery.vue';
+</script>
 
 <style>
 /* @media (min-width: 1024px) {
