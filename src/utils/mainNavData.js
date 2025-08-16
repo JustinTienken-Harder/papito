@@ -6,19 +6,20 @@ const homeNav = [
     },
     {
         navText: "Digital Camera Pictures",
-        navUrl: "CameraPictures/index.html"
+        navUrl: "CameraPictures/"
     },
     {
         navText: "(old) Digital 2002-2008",
-        navUrl: "Kpic/index.html"
+        navUrl: "Kpic/"
     },
     {
         navText: "Ruby and Sam in Europe 2006",
-        navUrl: "2006-Europe/index.html"
+        navUrl: "2006-Europe/"
     },
     {
         navText: "Ruby in Sweden 2006",
-        navUrl: "2006-05Ruby/"
+        navUrl: "2006-05Ruby/",
+        navBase: true
     },
     {
         navText: "Ruby's Christmas 2005",
@@ -26,27 +27,27 @@ const homeNav = [
     },
     {
         navText: "Video Picture",
-        navUrl: "VidPics/200507/index.html"
+        navUrl: "VidPics/200507/"
     },
     {
         navText: "Panoramics",
-        navUrl: "Kpic/pano/index.html"
+        navUrl: "Kpic/pano/"
     },
     {
         navText: "Baja Trips",
-        navUrl: "Baja/index.html"
+        navUrl: "Baja/"
     },
     {
         navText: "Colombia Scanned Pictures",
-        navUrl: "Colombia/index.html"
+        navUrl: "Colombia/"
     },
     {
         navText: "Old Colombia Pictures",
-        navUrl: "ColombiaViejo/index.html"
+        navUrl: "ColombiaViejo/"
     },
     {
         navText: "Favorites Scanned Pictures and Slides",
-        navUrl: "Favorites/index.html"
+        navUrl: "Favorites/"
     }
    
 ];
