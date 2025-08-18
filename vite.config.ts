@@ -15,6 +15,6 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url))
     }
   },
-  base: 'https://justintienken-harder.github.io/papito'
+  base: '/papito/'
 })
 
