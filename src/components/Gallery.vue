@@ -2,8 +2,8 @@
 
 <template>
   <div class="gallery">
-    <img 
-      v-for="(image, index) in images" 
+    <img
+      v-for="(image, index) in images"
       :key="index"
       :src="image"
       :alt="`Image ${index}`"
@@ -12,41 +12,55 @@
 </template>
 
 <script setup>
-import { ref, onMounted } from 'vue'
+import { ref, onMounted } from "vue";
 
-const images = ref([])
+const images = ref([]);
 
 onMounted(async () => {
   // Add error handling
   try {
-    const imageModules = import.meta.glob(`../assets/Pictures/2006-05Ruby/Dan's Pix/*.(png|jpg|jpeg|gif|svg)`, {
-      eager: false // lazy loading for better performance
-    });
-    
+    const imageModules = import.meta.glob(
+      `../assets/Pictures/2006-05Ruby/Dan's Pix/*.(png|jpg|jpeg|gif|svg)`,
+      {
+        eager: false, // lazy loading for better performance
+      }
+    );
+
     for (const path in imageModules) {
       const mod = await imageModules[path]();
       images.value.push(mod.default);
     }
   } catch (error) {
-    console.error('Error loading images:', error);
+    console.error("Error loading images:", error);
   }
-})
+});
 </script>
 
 <style type="scss">
 .gallery {
+  margin: 10rem;
   display: flex;
-  flex-wrap: wrap;
-  align-content: center;
-  align-items: baseline;
-  gap: 3rem;
-
+  flex-wrap: wrap; /* Allows items to wrap to the next line */
+  gap: 1rem; /* Optional: adds space between items */
+  
   img {
-    justify-content: space-evenly;
-    max-width: 100%;
-    height: auto;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    object-fit: cover;
+    object-position: left;
+    overflow: hidden;
+    flex: 4 1 10rem;
+    max-width: 10rem;
+    background-color: lightgray;
+    display: flex; /* To center content within the item */
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5em;
+    box-shadow: 0 1px 4px black;
+  }
+
+  img:hover {
+    object-position: right;
+    transition: object-position 12s ease;
+    cursor: pointer;
   }
 }
 </style>

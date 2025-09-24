@@ -13,9 +13,7 @@
     "build-only": "vite build",
     "type-check": "vue-tsc --build --force",
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts --fix --ignore-path .gitignore",
-    "format": "prettier --write src/",
-    "predeploy": "pnpm run build",
-    "deploy": "gh-pages -d dist"
+    "format": "prettier --write src/"
   },
   "dependencies": {
     "pinia": "^2.1.7",
