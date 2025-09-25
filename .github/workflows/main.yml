@@ -33,7 +33,7 @@ jobs:
       - name: Setup pnpm
         uses: pnpm/action-setup@v3 # Use the latest stable version
         with:
-          version: 8 # Specify pnpm version if needed
+          version: 9 # Specify pnpm version if needed
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
       - name: Build
