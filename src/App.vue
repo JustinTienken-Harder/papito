@@ -6,7 +6,7 @@ import Footer from './components/Footer.vue'
 <template>
   <div id="app">
     <header id="navBar">
-      <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
+      <img alt="Vue logo" class="logo" src="@/assets/PapitoPaul-Logo.png" width="auto" height="125" />
 
       <nav class="navigation">
         <RouterLink class="route-link" to="/">Home</RouterLink>
@@ -66,12 +66,13 @@ import Footer from './components/Footer.vue'
   .route-link {
     transition: all 0.2s ease;
     font-weight: bold;
-    color: #2c3e50;
+    color: #3a3e6c;
     font-size: 1rem;
     padding: 0 0.8rem 0 0.8rem;
 
     &.router-link-exact-active {
-      color: #42b983;
+      color: #3a3e6c;
+      opacity: 40%;
     }
   }
 }

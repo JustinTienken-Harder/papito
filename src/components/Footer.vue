@@ -14,7 +14,7 @@ footer {
   position: fixed;
   bottom: 0;
   width: 100vw;
-  background-color: #2c3e50;
+  background-color: #3a3e6c;
   opacity: 0.8;
   color: white;
   @include respond(tab-land) {
