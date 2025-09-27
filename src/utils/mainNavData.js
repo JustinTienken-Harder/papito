@@ -6,7 +6,71 @@ const homeNav = [
     },
     {
         navText: "Digital Camera Pictures",
-        navUrl: "CameraPictures/"
+        navUrl: "CameraPictures/",
+        navBase: false,
+        nestedDir: [
+            {
+            navText:"2002",
+            navUrl: "CameraPictures/2002/",
+            navBase: false,
+            nestedDir: [
+                {
+                    navText:"October",
+                    navUrl: "CameraPictures/2002/October/",
+                    navBase: false,
+                    nestedDir:[
+                        {
+                            navUrl:"CameraPictures/2002/October/2002/slides/",
+                            navBase: true
+                        }
+                    ]
+                },
+            ]
+            
+            },
+            {
+            navText:"2003",
+            navUrl: "CameraPictures/2003/",
+            navBase: false,
+            
+            },
+            {
+            navText:"2004",
+            navUrl: "CameraPictures/2004/",
+            navBase: false,
+            
+            },
+            {
+            navText:"2005",
+            navUrl: "CameraPictures/2005/",
+            navBase: false,
+            
+            },
+            {
+            navText:"2006",
+            navUrl: "CameraPictures/2006/",
+            navBase: false,
+            
+            },
+            {
+            navText:"2007",
+            navUrl: "CameraPictures/2007/",
+            navBase: false,
+            
+            },
+            {
+            navText:"2008",
+            navUrl: "CameraPictures/2008/",
+            navBase: false,
+            
+            },
+            {
+            navText:"2009",
+            navUrl: "CameraPictures/2009/",
+            navBase: false,
+            
+            },
+        ]
     },
     {
         navText: "(old) Digital 2002-2008",
