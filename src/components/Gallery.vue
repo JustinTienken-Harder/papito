@@ -14,24 +14,35 @@
 <script setup>
 import { ref, onMounted } from "vue";
 
+const props = defineProps(["photosUrl"]);
+const strgUrl = `../assets/Pictures${props.photosUrl}*.(png|jpg|jpeg|gif|svg)`;
+
 const images = ref([]);
 
 onMounted(async () => {
   // Add error handling
-  try {
-    const imageModules = import.meta.glob(
-      `../assets/Pictures/2006-05Ruby/Dan's Pix/*.(png|jpg|jpeg|gif|svg)`,
-      {
-        eager: false, // lazy loading for better performance
-      }
-    );
 
-    for (const path in imageModules) {
-      const mod = await imageModules[path]();
-      images.value.push(mod.default);
-    }
-  } catch (error) {
-    console.error("Error loading images:", error);
+  switch (props.photosUrl) {
+    case "CameraPictures/2002/October/":
+      console.log(props.photosUrl);
+      try {
+        const imageModules = import.meta.glob(
+          "../assets/Pictures/CameraPictures/2002/October/*.(png|jpg|jpeg|gif|svg)",
+          {
+            eager: false, // lazy loading for better performance
+          },
+        );
+
+        for (const path in imageModules) {
+          const mod = await imageModules[path]();
+          images.value.push(mod.default);
+        }
+      } catch (error) {
+        console.error("Error loading images:", error);
+      }
+      break;
+    default:
+      console.warn("Unknown photosUrl:", props.photosUrl);
   }
 });
 </script>
@@ -42,7 +53,7 @@ onMounted(async () => {
   display: flex;
   flex-wrap: wrap; /* Allows items to wrap to the next line */
   gap: 1rem; /* Optional: adds space between items */
-  
+
   img {
     object-fit: cover;
     object-position: left;

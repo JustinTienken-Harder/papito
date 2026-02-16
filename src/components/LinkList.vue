@@ -1,5 +1,5 @@
 <template>
-  <ul>
+  <ul class="center">
     <li v-for="(nav, index) in navData" :key="index">
       <a :href="nav.navUrl">{{ nav.navText }}</a>
     </li>
@@ -12,16 +12,22 @@ import { useRoute } from 'vue-router';
 
 const route = useRoute();
 
-console.log(route.fullPath);
-console.log(route.path);
-console.log(route.query);
-console.log(route.params);
-
 defineProps(["navData"]);
+
 </script>
 
 <style lang="scss" scoped>
 @import "../assets/base.scss";
+
+.center {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 40vw;
+  height: 50vh;
+}
+
 li {
   list-style-type: none;
   background-color: white;
