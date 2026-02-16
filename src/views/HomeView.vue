@@ -1,5 +1,7 @@
 <template>
-  <div class="center"><LinkList :nav-data="homeNavigation" /></div>
+  <div class="center">
+    <LinkList class="center" :nav-data="homeNavigation" />
+  </div>
 </template>
 
 <script setup>
