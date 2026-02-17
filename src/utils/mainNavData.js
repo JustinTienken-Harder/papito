@@ -10,16 +10,16 @@ const homeNav = [
     nestedDir: [
       {
         navText: "2002",
-        navUrl: "/CameraPictures/2002/",
+        navUrl: "2002/",
         navBase: false,
         nestedDir: [
           {
             navText: "October",
-            navUrl: "/CameraPictures/2002/October/",
+            navUrl: "October/",
             navBase: false,
             nestedDir: [
               {
-                navUrl: "CameraPictures/2002/October/",
+                navUrl: "/CameraPictures/2002/October/",
                 navBase: true,
               },
             ],
