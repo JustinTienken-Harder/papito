@@ -23,7 +23,7 @@ onMounted(async () => {
   // Add error handling
 
   switch (props.photosUrl) {
-    case "CameraPictures/2002/October/":
+    case "/CameraPictures/2002/October/":
       console.log(props.photosUrl);
       try {
         const imageModules = import.meta.glob(
