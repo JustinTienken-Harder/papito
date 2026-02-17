@@ -52,14 +52,14 @@ onMounted(async () => {
   margin: 10rem;
   display: flex;
   flex-wrap: wrap; /* Allows items to wrap to the next line */
-  gap: 1rem; /* Optional: adds space between items */
+  gap: 1.5rem; /* Optional: adds space between items */
 
   img {
     object-fit: cover;
     object-position: left;
     overflow: hidden;
-    flex: 4 1 10rem;
-    max-width: 10rem;
+    flex: 4 1 15rem;
+    max-width: 50rem;
     background-color: lightgray;
     display: flex; /* To center content within the item */
     justify-content: center;
@@ -72,6 +72,18 @@ onMounted(async () => {
     object-position: right;
     transition: object-position 12s ease;
     cursor: pointer;
+  }
+}
+
+@media (max-width: 430px) {
+  .gallery {
+    margin: 40% 5% 0 5%;
+    gap: 2rem;
+
+    img {
+      flex: 1 1 100%;
+      max-width: none;
+    }
   }
 }
 </style>
