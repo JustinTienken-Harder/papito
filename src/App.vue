@@ -6,7 +6,7 @@ import Footer from './components/Footer.vue'
 <template>
   <div id="app">
     <header id="navBar">
-      <img alt="Vue logo" class="logo" src="@/assets/PapitoPaul-Logo.png" width="auto" height="125" />
+      <img alt="Vue logo" class="logo" src="@/assets/PapitoPaul-Logo.png" />
 
       <nav class="navigation">
         <RouterLink class="route-link" to="/">Home</RouterLink>
@@ -36,7 +36,7 @@ import Footer from './components/Footer.vue'
   text-align: center;
   color: $color-primary-dark;
   width: 100vw;
-  height: 130vh;
+  height: 140vh;
   box-sizing: border-box;
   padding: 0;
   margin: 0;
@@ -46,6 +46,12 @@ import Footer from './components/Footer.vue'
   background-attachment: fixed;
   background-repeat: repeat;
   scroll-behavior: smooth;
+}
+
+.logo {
+
+  width:auto;
+  height: 10rem;
 }
 #navBar {
   z-index: 500;
@@ -66,6 +72,7 @@ import Footer from './components/Footer.vue'
   .route-link {
     transition: all 0.2s ease;
     font-weight: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: #3a3e6c;
     font-size: 1rem;
     padding: 0 0.8rem 0 0.8rem;
@@ -93,6 +100,12 @@ main {
 .flex-style {
   display: flex;
   flex-wrap: wrap;
+}
+@media (max-width: 430px) {
+ 
+  .logo {
+    height: 5rem;
+  }
 }
 
 

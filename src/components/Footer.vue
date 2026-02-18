@@ -46,4 +46,16 @@ footer {
     }
   }
 }
+
+@media (max-width: 430px) {
+ 
+  footer {
+    height: 5rem;
+    display: none !important;
+  }
+
+  
+}
+
+
 </style>
