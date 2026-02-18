@@ -7,7 +7,26 @@
       :key="index"
       :src="image"
       :alt="`Image ${index}`"
+      @click="openModal(index)"
+      class="gallery-img"
     />
+  </div>
+
+  <!-- Modal -->
+  <div v-if="isModalOpen" class="modal" @click.self="closeModal">
+    <button class="modal-close" @click="closeModal">&times;</button>
+    <div class="modal-content">
+      <img
+        :src="images[selectedImageIndex]"
+        :alt="`Image ${selectedImageIndex}`"
+      />
+    </div>
+    <button class="modal-prev" @click="prevImage" v-if="images.length > 1">
+      ❮
+    </button>
+    <button class="modal-next" @click="nextImage" v-if="images.length > 1">
+      ❯
+    </button>
   </div>
 </template>
 
@@ -18,6 +37,8 @@ const props = defineProps(["photosUrl"]);
 const strgUrl = `../assets/Pictures${props.photosUrl}*.(png|jpg|jpeg|gif|svg)`;
 
 const images = ref([]);
+const isModalOpen = ref(false);
+const selectedImageIndex = ref(0);
 
 onMounted(async () => {
   // Add error handling
@@ -45,6 +66,25 @@ onMounted(async () => {
       console.warn("Unknown photosUrl:", props.photosUrl);
   }
 });
+
+const openModal = (index) => {
+  selectedImageIndex.value = index;
+  isModalOpen.value = true;
+};
+
+const closeModal = () => {
+  isModalOpen.value = false;
+};
+
+const nextImage = () => {
+  selectedImageIndex.value =
+    (selectedImageIndex.value + 1) % images.value.length;
+};
+
+const prevImage = () => {
+  selectedImageIndex.value =
+    (selectedImageIndex.value - 1 + images.value.length) % images.value.length;
+};
 </script>
 
 <style type="scss">
@@ -66,13 +106,98 @@ onMounted(async () => {
     align-items: center;
     font-size: 1.5em;
     box-shadow: 0 1px 4px black;
-  }
-
-  img:hover {
-    object-position: right;
-    transition: object-position 12s ease;
     cursor: pointer;
+    transition: transform 0.2s ease;
+
+    &:hover {
+      object-position: right;
+      transition: object-position 12s ease;
+      transform: scale(1.02);
+    }
   }
+}
+
+/* Modal Styles */
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.9);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+  animation: fadeIn 0.3s ease;
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+}
+
+.modal-content {
+  position: relative;
+  max-width: 90vw;
+  max-height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+  }
+}
+
+.modal-close {
+  position: absolute;
+  top: 2rem;
+  right: 2rem;
+  background: none;
+  border: none;
+  color: white;
+  font-size: 3rem;
+  cursor: pointer;
+  z-index: 1001;
+  transition: transform 0.2s ease;
+
+  &:hover {
+    transform: scale(1.2);
+  }
+}
+
+.modal-prev,
+.modal-next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(255, 255, 255, 0.3);
+  border: none;
+  color: white;
+  font-size: 2rem;
+  padding: 1rem 1.5rem;
+  cursor: pointer;
+  z-index: 1001;
+  transition: background-color 0.2s ease;
+
+  &:hover {
+    background: rgba(255, 255, 255, 0.6);
+  }
+}
+
+.modal-prev {
+  left: 2rem;
+}
+
+.modal-next {
+  right: 2rem;
 }
 
 @media (max-width: 430px) {
@@ -84,6 +209,26 @@ onMounted(async () => {
       flex: 1 1 100%;
       max-width: none;
     }
+  }
+
+  .modal-close {
+    font-size: 2rem;
+    top: 1rem;
+    right: 1rem;
+  }
+
+  .modal-prev,
+  .modal-next {
+    font-size: 1.5rem;
+    padding: 0.75rem 1rem;
+  }
+
+  .modal-prev {
+    left: 0.5rem;
+  }
+
+  .modal-next {
+    right: 0.5rem;
   }
 }
 </style>
