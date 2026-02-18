@@ -26,11 +26,11 @@ const homeNav = [
           },
           {
             navText: "November",
-            navUrl: "/CameraPictures/2002/November/",
+            navUrl: "November/",
             navBase: false,
             nestedDir: [
               {
-                navUrl: "CameraPictures/2002/November/2002/slides/",
+                navUrl: "/CameraPictures/2002/November/",
                 navBase: true,
               },
             ],

@@ -62,6 +62,24 @@ onMounted(async () => {
         console.error("Error loading images:", error);
       }
       break;
+    case "/CameraPictures/2002/November/":
+      console.log(props.photosUrl);
+      try {
+        const imageModules = import.meta.glob(
+          "../assets/Pictures/CameraPictures/2002/November/*.(png|jpg|jpeg|gif|svg)",
+          {
+            eager: false, // lazy loading for better performance
+          },
+        );
+
+        for (const path in imageModules) {
+          const mod = await imageModules[path]();
+          images.value.push(mod.default);
+        }
+      } catch (error) {
+        console.error("Error loading images:", error);
+      }
+      break;
     default:
       console.warn("Unknown photosUrl:", props.photosUrl);
   }
