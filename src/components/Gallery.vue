@@ -62,6 +62,7 @@ onMounted(async () => {
         console.error("Error loading images:", error);
       }
       break;
+
     case "/CameraPictures/2002/November/":
       console.log(props.photosUrl);
       try {
@@ -80,6 +81,26 @@ onMounted(async () => {
         console.error("Error loading images:", error);
       }
       break;
+
+    case "/CameraPictures/2002/December/":
+      console.log(props.photosUrl);
+      try {
+        const imageModules = import.meta.glob(
+          "../assets/Pictures/CameraPictures/2002/December/*.(png|jpg|jpeg|gif|svg)",
+          {
+            eager: false, // lazy loading for better performance
+          },
+        );
+
+        for (const path in imageModules) {
+          const mod = await imageModules[path]();
+          images.value.push(mod.default);
+        }
+      } catch (error) {
+        console.error("Error loading images:", error);
+      }
+      break;
+
     default:
       console.warn("Unknown photosUrl:", props.photosUrl);
   }
@@ -107,7 +128,8 @@ const prevImage = () => {
 
 <style type="scss">
 .gallery {
-  margin: 10rem;
+  margin: 12rem 10rem 0 10rem;
+
   display: flex;
   flex-wrap: wrap; /* Allows items to wrap to the next line */
   gap: 1.5rem; /* Optional: adds space between items */
@@ -161,8 +183,8 @@ const prevImage = () => {
 
 .modal-content {
   position: relative;
-  max-width: 90vw;
-  max-height: 90vh;
+  max-width: 100vw;
+  max-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -171,6 +193,11 @@ const prevImage = () => {
     max-width: 100%;
     max-height: 100%;
     object-fit: contain;
+    transition: transform 1s ease;
+  }
+  img:hover {
+    transform: scale(1.6);
+    transition: transform 1s ease;
   }
 }
 

@@ -50,6 +50,14 @@ const router = createRouter({
         photosUrl: homeNav[1].nestedDir[0].nestedDir[1].nestedDir[0].navUrl,
       },
     },
+    {
+      path: "/CameraPictures/2002/December/",
+      name: "NovemberPictures",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[1].nestedDir[0].nestedDir[2].nestedDir[0].navUrl,
+      },
+    },
   ],
 });
 
