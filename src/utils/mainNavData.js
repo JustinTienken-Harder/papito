@@ -35,6 +35,17 @@ const homeNav = [
               },
             ],
           },
+          {
+            navText: "December",
+            navUrl: "December/",
+            navBase: false,
+            nestedDir: [
+              {
+                navUrl: "/CameraPictures/2002/December/",
+                navBase: true,
+              },
+            ],
+          },
         ],
       },
       {
