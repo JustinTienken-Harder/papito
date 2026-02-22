@@ -24,39 +24,53 @@ const router = createRouter({
     },
     {
       path: "/CameraPictures/",
-      name: "Years",
+      name: "CameraPictures",
       component: LinkList,
-      props: { navData: homeNav[1].nestedDir },
+      props: { navData: homeNav[1].nestedDir }
     },
     {
       path: "/CameraPictures/2002/",
-      name: "Months",
+      name: "CameraPictures 2002",
       component: LinkList,
-      props: { navData: homeNav[1].nestedDir[0].nestedDir },
+      props: { navData: homeNav[1].nestedDir[0].nestedDir }
     },
     {
       path: "/CameraPictures/2002/October/",
-      name: "OctoberPictures",
+      name: "CameraPictures 2002 October",
       component: Gallery,
       props: {
         photosUrl: homeNav[1].nestedDir[0].nestedDir[0].nestedDir[0].navUrl,
-      },
+      }
     },
     {
       path: "/CameraPictures/2002/November/",
-      name: "NovemberPictures",
+      name: "CameraPictures 2002 November",
       component: Gallery,
       props: {
         photosUrl: homeNav[1].nestedDir[0].nestedDir[1].nestedDir[0].navUrl,
-      },
+      }
     },
     {
       path: "/CameraPictures/2002/December/",
-      name: "NovemberPictures",
+      name: "CameraPictures 2002 December",
       component: Gallery,
       props: {
         photosUrl: homeNav[1].nestedDir[0].nestedDir[2].nestedDir[0].navUrl,
-      },
+      }
+    },
+    {
+      path: "/CameraPictures/2003/",
+      name: " CameraPictures 2003",
+      component: LinkList,
+      props: { navData: homeNav[1].nestedDir[1].nestedDir }
+    },
+    {
+      path: "/CameraPictures/2003/January/",
+      name: "CameraPictures 2003 January ",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[1].nestedDir[1].nestedDir[0].nestedDir[0].navUrl,
+      }
     },
   ],
 });

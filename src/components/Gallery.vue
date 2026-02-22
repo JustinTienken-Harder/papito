@@ -100,6 +100,222 @@ onMounted(async () => {
         console.error("Error loading images:", error);
       }
       break;
+    case "/CameraPictures/2003/January/":
+      console.log(props.photosUrl);
+      try {
+        const imageModules = import.meta.glob(
+          "../assets/Pictures/CameraPictures/2003/January/*.(png|jpg|jpeg|gif|svg)",
+          {
+            eager: false, // lazy loading for better performance
+          },
+        );
+
+        for (const path in imageModules) {
+          const mod = await imageModules[path]();
+          images.value.push(mod.default);
+        }
+      } catch (error) {
+        console.error("Error loading images:", error);
+      }
+      break;
+    // case "/CameraPictures/2003/February/":
+    //   console.log(props.photosUrl);
+    //   try {
+    //     const imageModules = import.meta.glob(
+    //       "../assets/Pictures/CameraPictures/2003/February/*.(png|jpg|jpeg|gif|svg)",
+    //       {
+    //         eager: false, // lazy loading for better performance
+    //       },
+    //     );
+
+    //     for (const path in imageModules) {
+    //       const mod = await imageModules[path]();
+    //       images.value.push(mod.default);
+    //     }
+    //   } catch (error) {
+    //     console.error("Error loading images:", error);
+    //   }
+    //   break;
+    // case "/CameraPictures/2003/March/":
+    //   console.log(props.photosUrl);
+    //   try {
+    //     const imageModules = import.meta.glob(
+    //       "../assets/Pictures/CameraPictures/2003/March/*.(png|jpg|jpeg|gif|svg)",
+    //       {
+    //         eager: false, // lazy loading for better performance
+    //       },
+    //     );
+
+    //     for (const path in imageModules) {
+    //       const mod = await imageModules[path]();
+    //       images.value.push(mod.default);
+    //     }
+    //   } catch (error) {
+    //     console.error("Error loading images:", error);
+    //   }
+    //   break;
+    // case "/CameraPictures/2003/April/":
+    //   console.log(props.photosUrl);
+    //   try {
+    //     const imageModules = import.meta.glob(
+    //       "../assets/Pictures/CameraPictures/2003/April/*.(png|jpg|jpeg|gif|svg)",
+    //       {
+    //         eager: false, // lazy loading for better performance
+    //       },
+    //     );
+
+    //     for (const path in imageModules) {
+    //       const mod = await imageModules[path]();
+    //       images.value.push(mod.default);
+    //     }
+    //   } catch (error) {
+    //     console.error("Error loading images:", error);
+    //   }
+    //   break;
+    // case "/CameraPictures/2003/May/":
+    //   console.log(props.photosUrl);
+    //   try {
+    //     const imageModules = import.meta.glob(
+    //       "../assets/Pictures/CameraPictures/2003/May/*.(png|jpg|jpeg|gif|svg)",
+    //       {
+    //         eager: false, // lazy loading for better performance
+    //       },
+    //     );
+
+    //     for (const path in imageModules) {
+    //       const mod = await imageModules[path]();
+    //       images.value.push(mod.default);
+    //     }
+    //   } catch (error) {
+    //     console.error("Error loading images:", error);
+    //   }
+    //   break;
+    // case "/CameraPictures/2003/June/":
+    //   console.log(props.photosUrl);
+    //   try {
+    //     const imageModules = import.meta.glob(
+    //       "../assets/Pictures/CameraPictures/2003/June/*.(png|jpg|jpeg|gif|svg)",
+    //       {
+    //         eager: false, // lazy loading for better performance
+    //       },
+    //     );
+
+    //     for (const path in imageModules) {
+    //       const mod = await imageModules[path]();
+    //       images.value.push(mod.default);
+    //     }
+    //   } catch (error) {
+    //     console.error("Error loading images:", error);
+    //   }
+    //   break;
+    // case "/CameraPictures/2003/July/":
+    //   console.log(props.photosUrl);
+    //   try {
+    //     const imageModules = import.meta.glob(
+    //       "../assets/Pictures/CameraPictures/2003/July/*.(png|jpg|jpeg|gif|svg)",
+    //       {
+    //         eager: false, // lazy loading for better performance
+    //       },
+    //     );
+
+    //     for (const path in imageModules) {
+    //       const mod = await imageModules[path]();
+    //       images.value.push(mod.default);
+    //     }
+    //   } catch (error) {
+    //     console.error("Error loading images:", error);
+    //   }
+    //   break;
+    // case "/CameraPictures/2003/August/":
+    //   console.log(props.photosUrl);
+    //   try {
+    //     const imageModules = import.meta.glob(
+    //       "../assets/Pictures/CameraPictures/2003/August/*.(png|jpg|jpeg|gif|svg)",
+    //       {
+    //         eager: false, // lazy loading for better performance
+    //       },
+    //     );
+
+    //     for (const path in imageModules) {
+    //       const mod = await imageModules[path]();
+    //       images.value.push(mod.default);
+    //     }
+    //   } catch (error) {
+    //     console.error("Error loading images:", error);
+    //   }
+    //   break;
+    // case "/CameraPictures/2003/September/":
+    //   console.log(props.photosUrl);
+    //   try {
+    //     const imageModules = import.meta.glob(
+    //       "../assets/Pictures/CameraPictures/2003/September/*.(png|jpg|jpeg|gif|svg)",
+    //       {
+    //         eager: false, // lazy loading for better performance
+    //       },
+    //     );
+
+    //     for (const path in imageModules) {
+    //       const mod = await imageModules[path]();
+    //       images.value.push(mod.default);
+    //     }
+    //   } catch (error) {
+    //     console.error("Error loading images:", error);
+    //   }
+    //   break;
+    // case "/CameraPictures/2003/October/":
+    //   console.log(props.photosUrl);
+    //   try {
+    //     const imageModules = import.meta.glob(
+    //       "../assets/Pictures/CameraPictures/2003/October/*.(png|jpg|jpeg|gif|svg)",
+    //       {
+    //         eager: false, // lazy loading for better performance
+    //       },
+    //     );
+
+    //     for (const path in imageModules) {
+    //       const mod = await imageModules[path]();
+    //       images.value.push(mod.default);
+    //     }
+    //   } catch (error) {
+    //     console.error("Error loading images:", error);
+    //   }
+    //   break;
+    // case "/CameraPictures/2003/November/":
+    //   console.log(props.photosUrl);
+    //   try {
+    //     const imageModules = import.meta.glob(
+    //       "../assets/Pictures/CameraPictures/2003/November/*.(png|jpg|jpeg|gif|svg)",
+    //       {
+    //         eager: false, // lazy loading for better performance
+    //       },
+    //     );
+
+    //     for (const path in imageModules) {
+    //       const mod = await imageModules[path]();
+    //       images.value.push(mod.default);
+    //     }
+    //   } catch (error) {
+    //     console.error("Error loading images:", error);
+    //   }
+    //   break;
+    // case "/CameraPictures/2003/December/":
+    //   console.log(props.photosUrl);
+    //   try {
+    //     const imageModules = import.meta.glob(
+    //       "../assets/Pictures/CameraPictures/2003/December/*.(png|jpg|jpeg|gif|svg)",
+    //       {
+    //         eager: false, // lazy loading for better performance
+    //       },
+    //     );
+
+    //     for (const path in imageModules) {
+    //       const mod = await imageModules[path]();
+    //       images.value.push(mod.default);
+    //     }
+    //   } catch (error) {
+    //     console.error("Error loading images:", error);
+    //   }
+    //   break;
 
     default:
       console.warn("Unknown photosUrl:", props.photosUrl);
@@ -183,8 +399,8 @@ const prevImage = () => {
 
 .modal-content {
   position: relative;
-  max-width: 100vw;
-  max-height: 100vh;
+  max-width: 90vw;
+  max-height: 90vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -193,12 +409,12 @@ const prevImage = () => {
     max-width: 100%;
     max-height: 100%;
     object-fit: contain;
-    transition: transform 1s ease;
+    /* transition: transform 1s ease; */
   }
-  img:hover {
+  /* img:hover {
     transform: scale(1.6);
     transition: transform 1s ease;
-  }
+  } */
 }
 
 .modal-close {

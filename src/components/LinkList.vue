@@ -1,7 +1,7 @@
 <template>
   <ul class="center">
     <li v-for="(nav, index) in navData" :key="index">
-      <a :href="nav.navUrl">{{ nav.navText }}</a>
+      <router-link :to="nav.navUrl">{{ nav.navText }}</router-link>
     </li>
   </ul>
 </template>
@@ -48,7 +48,7 @@ li {
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 520px) {
   .center {
     width: 80vw;
     a {
