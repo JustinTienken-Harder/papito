@@ -72,6 +72,94 @@ const router = createRouter({
         photosUrl: homeNav[1].nestedDir[1].nestedDir[0].nestedDir[0].navUrl,
       }
     },
+    {
+      path: "/CameraPictures/2003/February/",
+      name: "CameraPictures 2003 February",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[1].nestedDir[1].nestedDir[1].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/CameraPictures/2003/March/",
+      name: "CameraPictures 2003 March",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[1].nestedDir[1].nestedDir[2].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/CameraPictures/2003/April/",
+      name: "CameraPictures 2003 April",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[1].nestedDir[1].nestedDir[3].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/CameraPictures/2003/May/",
+      name: "CameraPictures 2003 May",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[1].nestedDir[1].nestedDir[4].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/CameraPictures/2003/June/",
+      name: "CameraPictures 2003 June",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[1].nestedDir[1].nestedDir[5].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/CameraPictures/2003/July/",
+      name: "CameraPictures 2003 July",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[1].nestedDir[1].nestedDir[6].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/CameraPictures/2003/August/",
+      name: "CameraPictures 2003 August",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[1].nestedDir[1].nestedDir[7].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/CameraPictures/2003/September/",
+      name: "CameraPictures 2003 September",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[1].nestedDir[1].nestedDir[8].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/CameraPictures/2003/October/",
+      name: "CameraPictures 2003 October",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[1].nestedDir[1].nestedDir[9].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/CameraPictures/2003/November/",
+      name: "CameraPictures 2003 November",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[1].nestedDir[1].nestedDir[10].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/CameraPictures/2003/December/",
+      name: "CameraPictures 2003 December",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[1].nestedDir[1].nestedDir[11].nestedDir[0].navUrl,
+      }
+    },
   ],
 });
 
