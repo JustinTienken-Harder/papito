@@ -23,6 +23,14 @@ const router = createRouter({
       component: () => import("../views/AboutView.vue"),
     },
     {
+    path: "/papito-paul.blogspot",
+    name:"Papito-Paul's Blog",
+    beforeEnter() {
+     location.href = "http://papito-paul.blogspot.com";
+      return false; // Prevent Vue Router from handling the navigation internally
+    }
+  },
+    {
       path: "/CameraPictures/",
       name: "CameraPictures",
       component: LinkList,
@@ -158,6 +166,100 @@ const router = createRouter({
       component: Gallery,
       props: {
         photosUrl: homeNav[1].nestedDir[1].nestedDir[11].nestedDir[0].navUrl,
+      }
+    },
+     {
+      path: "/CameraPictures/2004/",
+      name: " CameraPictures 2004",
+      component: LinkList,
+      props: { navData: homeNav[1].nestedDir[2].nestedDir }
+    },
+    {
+      path: "/CameraPictures/2004/January/",
+      name: "CameraPictures 2004 January ",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[1].nestedDir[2].nestedDir[0].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/CameraPictures/2004/February/",
+      name: "CameraPictures 2004 February",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[1].nestedDir[2].nestedDir[1].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/CameraPictures/2004/March/",
+      name: "CameraPictures 2004 March",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[1].nestedDir[2].nestedDir[2].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/CameraPictures/2004/April/",
+      name: "CameraPictures 2004 April",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[1].nestedDir[2].nestedDir[3].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/CameraPictures/2004/June/",
+      name: "CameraPictures 2004 June",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[1].nestedDir[2].nestedDir[4].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/CameraPictures/2004/July/",
+      name: "CameraPictures 2004 July",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[1].nestedDir[2].nestedDir[5].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/CameraPictures/2004/August/",
+      name: "CameraPictures 2004 August",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[1].nestedDir[2].nestedDir[6].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/CameraPictures/2004/September/",
+      name: "CameraPictures 2004 September",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[1].nestedDir[2].nestedDir[7].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/CameraPictures/2004/October/",
+      name: "CameraPictures 2004 October",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[1].nestedDir[2].nestedDir[8].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/CameraPictures/2004/November/",
+      name: "CameraPictures 2004 November",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[1].nestedDir[2].nestedDir[9].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/CameraPictures/2004/December/",
+      name: "CameraPictures 2004 December",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[1].nestedDir[2].nestedDir[10].nestedDir[0].navUrl,
       }
     },
   ],
