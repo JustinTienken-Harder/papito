@@ -317,8 +317,142 @@ const homeNav = [
       },
       {
         navText: "2005",
-        navUrl: "CameraPictures/2005/",
+        navUrl: "2005/",
         navBase: false,
+        nestedDir: [
+          {
+            navText: "January",
+            navUrl: "January/",
+            navBase: false,
+            nestedDir: [
+              {
+                navUrl: "/CameraPictures/2005/January/",
+                navBase: true,
+              },
+            ],
+          },
+          {
+            navText: "February",
+            navUrl: "February/",
+            navBase: false,
+            nestedDir: [
+              {
+                navUrl: "/CameraPictures/2005/February/",
+                navBase: true,
+              },
+            ],
+          },
+          {
+            navText: "March",
+            navUrl: "March/",
+            navBase: false,
+            nestedDir: [
+              {
+                navUrl: "/CameraPictures/2005/March/",
+                navBase: true,
+              },
+            ],
+          },
+          {
+            navText: "April",
+            navUrl: "April/",
+            navBase: false,
+            nestedDir: [
+              {
+                navUrl: "/CameraPictures/2005/April/",
+                navBase: true,
+              },
+            ],
+          },
+          {
+            navText: "May",
+            navUrl: "May/",
+            navBase: false,
+            nestedDir: [
+              {
+                navUrl: "/CameraPictures/2005/May/",
+                navBase: true,
+              },
+            ],
+          },
+          {
+            navText: "June",
+            navUrl: "June/",
+            navBase: false,
+            nestedDir: [
+              {
+                navUrl: "/CameraPictures/2005/June/",
+                navBase: true,
+              },
+            ],
+          },
+          {
+            navText: "July",
+            navUrl: "July/",
+            navBase: false,
+            nestedDir: [
+              {
+                navUrl: "/CameraPictures/2005/July/",
+                navBase: true,
+              },
+            ],
+          },
+          {
+            navText: "August",
+            navUrl: "August/",
+            navBase: false,
+            nestedDir: [
+              {
+                navUrl: "/CameraPictures/2005/August/",
+                navBase: true,
+              },
+            ],
+          },
+          {
+            navText: "September",
+            navUrl: "September/",
+            navBase: false,
+            nestedDir: [
+              {
+                navUrl: "/CameraPictures/2005/September/",
+                navBase: true,
+              },
+            ],
+          },
+          {
+            navText: "October",
+            navUrl: "October/",
+            navBase: false,
+            nestedDir: [
+              {
+                navUrl: "/CameraPictures/2005/October/",
+                navBase: true,
+              },
+            ],
+          },
+          {
+            navText: "November",
+            navUrl: "November/",
+            navBase: false,
+            nestedDir: [
+              {
+                navUrl: "/CameraPictures/2005/November/",
+                navBase: true,
+              },
+            ],
+          },
+          {
+            navText: "December",
+            navUrl: "December/",
+            navBase: false,
+            nestedDir: [
+              {
+                navUrl: "/CameraPictures/2005/December/",
+                navBase: true,
+              },
+            ],
+          },
+        ],
       },
       {
         navText: "2006",
