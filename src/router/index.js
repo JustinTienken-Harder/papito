@@ -262,6 +262,108 @@ const router = createRouter({
         photosUrl: homeNav[1].nestedDir[2].nestedDir[10].nestedDir[0].navUrl,
       }
     },
+    {
+      path: "/CameraPictures/2005/",
+      name: " CameraPictures 2005",
+      component: LinkList,
+      props: { navData: homeNav[1].nestedDir[3].nestedDir }
+    },
+    {
+      path: "/CameraPictures/2005/January/",
+      name: "CameraPictures 2005 January ",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[1].nestedDir[3].nestedDir[0].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/CameraPictures/2005/February/",
+      name: "CameraPictures 2005 February",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[1].nestedDir[3].nestedDir[1].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/CameraPictures/2005/March/",
+      name: "CameraPictures 2005 March",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[1].nestedDir[3].nestedDir[2].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/CameraPictures/2005/April/",
+      name: "CameraPictures 2005 April",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[1].nestedDir[3].nestedDir[3].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/CameraPictures/2005/May/",
+      name: "CameraPictures 2005 May",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[1].nestedDir[3].nestedDir[4].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/CameraPictures/2005/June/",
+      name: "CameraPictures 2005 June",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[1].nestedDir[3].nestedDir[5].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/CameraPictures/2005/July/",
+      name: "CameraPictures 2005 July",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[1].nestedDir[3].nestedDir[6].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/CameraPictures/2005/August/",
+      name: "CameraPictures 2005 August",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[1].nestedDir[3].nestedDir[7].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/CameraPictures/2005/September/",
+      name: "CameraPictures 2005 September",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[1].nestedDir[3].nestedDir[8].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/CameraPictures/2005/October/",
+      name: "CameraPictures 2005 October",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[1].nestedDir[3].nestedDir[9].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/CameraPictures/2005/November/",
+      name: "CameraPictures 2005 November",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[1].nestedDir[3].nestedDir[10].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/CameraPictures/2005/December/",
+      name: "CameraPictures 2005 December",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[1].nestedDir[3].nestedDir[11].nestedDir[0].navUrl,
+      }
+    },
   ],
 });
 
