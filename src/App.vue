@@ -1,11 +1,42 @@
 <script setup>
 import { RouterLink, RouterView } from 'vue-router'
+import { ref, onMounted, onUnmounted } from 'vue'
 import Footer from './components/Footer.vue'
+
+const isNavBarVisible = ref(true)
+let lastScrollY = 0
+
+const handleScroll = () => {
+  const currentScrollY = window.scrollY
+  
+  // Show navbar when at top of page
+  if (currentScrollY < 50) {
+    isNavBarVisible.value = true
+    return
+  }
+  
+  // Show navbar when scrolling up, hide when scrolling down
+  if (currentScrollY < lastScrollY) {
+    isNavBarVisible.value = true
+  } else {
+    isNavBarVisible.value = false
+  }
+  
+  lastScrollY = currentScrollY
+}
+
+onMounted(() => {
+  window.addEventListener('scroll', handleScroll)
+})
+
+onUnmounted(() => {
+  window.removeEventListener('scroll', handleScroll)
+})
 </script>
 
 <template>
   <div id="app">
-    <header id="navBar">
+    <header id="navBar" :class="{ 'nav-hidden': !isNavBarVisible }">
       <img alt="Vue logo" class="logo" src="@/assets/PapitoPaul-Logo.png" />
 
       <nav class="navigation">
@@ -63,6 +94,15 @@ import Footer from './components/Footer.vue'
   position: fixed;
   display: flex;
   justify-content: space-between;
+  transition: transform 0.3s ease, opacity 0.3s ease;
+  transform: translateY(0);
+  opacity: 1;
+  
+  &.nav-hidden {
+    transform: translateY(-100%);
+    opacity: 0;
+  }
+  
   .navigation {
     align-self: center;
     flex: 1 0 auto;
@@ -72,11 +112,11 @@ import Footer from './components/Footer.vue'
   .route-link {
     transition: all 0.2s ease;
     font-weight: bold;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color: #3a3e6c;
+    font-family:'Cambria', 'Cochin', 'Georgia', 'Times', 'Times New Roman', 'serif';
+    color:#3a3e6c;
     font-size: 1rem;
-    padding: 0 0.8rem 0 0.8rem;
-
+    padding: 0 0.4rem 0 0.4rem;
+    
     &.router-link-exact-active {
       color: #3a3e6c;
       opacity: 40%;
@@ -101,10 +141,11 @@ main {
   display: flex;
   flex-wrap: wrap;
 }
-@media (max-width: 430px) {
+@media (max-width: 740px) {
  
   .logo {
-    height: 5rem;
+    height: 5.4rem;
+    width: auto;
   }
 }
 

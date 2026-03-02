@@ -47,7 +47,7 @@ footer {
   }
 }
 
-@media (max-width: 520px) {
+@media (max-width: 720px) {
  
   footer {
     height: 5rem;
