@@ -947,6 +947,492 @@ case "/CameraPictures/2005/January/":
         console.error("Error loading images:", error);
       }
       break;
+      case "/CameraPictures/2007/January/":
+      console.log(props.photosUrl);
+      try {
+        const imageModules = import.meta.glob(
+          "../assets/Pictures/CameraPictures/2007/January/*.(png|jpg|jpeg|gif|svg)",
+          {
+            eager: false, // lazy loading for better performance
+          },
+        );
+
+        for (const path in imageModules) {
+          const mod = await imageModules[path]();
+          images.value.push(mod.default);
+        }
+      } catch (error) {
+        console.error("Error loading images:", error);
+      }
+      break;
+    case "/CameraPictures/2007/February/":
+      console.log(props.photosUrl);
+      try {
+        const imageModules = import.meta.glob(
+          "../assets/Pictures/CameraPictures/2007/February/*.(png|jpg|jpeg|gif|svg)",
+          {
+            eager: false, // lazy loading for better performance
+          },
+        );
+
+        for (const path in imageModules) {
+          const mod = await imageModules[path]();
+          images.value.push(mod.default);
+        }
+      } catch (error) {
+        console.error("Error loading images:", error);
+      }
+      break;
+    case "/CameraPictures/2007/March/":
+      console.log(props.photosUrl);
+      try {
+        const imageModules = import.meta.glob(
+          "../assets/Pictures/CameraPictures/2007/March/*.(png|jpg|jpeg|gif|svg)",
+          {
+            eager: false, // lazy loading for better performance
+          },
+        );
+
+        for (const path in imageModules) {
+          const mod = await imageModules[path]();
+          images.value.push(mod.default);
+        }
+      } catch (error) {
+        console.error("Error loading images:", error);
+      }
+      break;
+    case "/CameraPictures/2007/April/":
+      console.log(props.photosUrl);
+      try {
+        const imageModules = import.meta.glob(
+          "../assets/Pictures/CameraPictures/2007/April/*.(png|jpg|jpeg|gif|svg)",
+          {
+            eager: false, // lazy loading for better performance
+          },
+        );
+
+        for (const path in imageModules) {
+          const mod = await imageModules[path]();
+          images.value.push(mod.default);
+        }
+      } catch (error) {
+        console.error("Error loading images:", error);
+      }
+      break;
+    case "/CameraPictures/2007/May/":
+      console.log(props.photosUrl);
+      try {
+        const imageModules = import.meta.glob(
+          "../assets/Pictures/CameraPictures/2007/May/*.(png|jpg|jpeg|gif|svg)",
+          {
+            eager: false, // lazy loading for better performance
+          },
+        );
+
+        for (const path in imageModules) {
+          const mod = await imageModules[path]();
+          images.value.push(mod.default);
+        }
+      } catch (error) {
+        console.error("Error loading images:", error);
+      }
+      break;
+    case "/CameraPictures/2007/June/":
+      console.log(props.photosUrl);
+      try {
+        const imageModules = import.meta.glob(
+          "../assets/Pictures/CameraPictures/2007/June/*.(png|jpg|jpeg|gif|svg)",
+          {
+            eager: false, // lazy loading for better performance
+          },
+        );
+
+        for (const path in imageModules) {
+          const mod = await imageModules[path]();
+          images.value.push(mod.default);
+        }
+      } catch (error) {
+        console.error("Error loading images:", error);
+      }
+      break;
+    case "/CameraPictures/2007/July/":
+      console.log(props.photosUrl);
+      try {
+        const imageModules = import.meta.glob(
+          "../assets/Pictures/CameraPictures/2007/July/*.(png|jpg|jpeg|gif|svg)",
+          {
+            eager: false, // lazy loading for better performance
+          },
+        );
+
+        for (const path in imageModules) {
+          const mod = await imageModules[path]();
+          images.value.push(mod.default);
+        }
+      } catch (error) {
+        console.error("Error loading images:", error);
+      }
+      break;
+    case "/CameraPictures/2007/August/":
+      console.log(props.photosUrl);
+      try {
+        const imageModules = import.meta.glob(
+          "../assets/Pictures/CameraPictures/2007/August/*.(png|jpg|jpeg|gif|svg)",
+          {
+            eager: false, // lazy loading for better performance
+          },
+        );
+
+        for (const path in imageModules) {
+          const mod = await imageModules[path]();
+          images.value.push(mod.default);
+        }
+      } catch (error) {
+        console.error("Error loading images:", error);
+      }
+      break;
+    case "/CameraPictures/2007/September/":
+      console.log(props.photosUrl);
+      try {
+        const imageModules = import.meta.glob(
+          "../assets/Pictures/CameraPictures/2007/September/*.(png|jpg|jpeg|gif|svg)",
+          {
+            eager: false, // lazy loading for better performance
+          },
+        );
+
+        for (const path in imageModules) {
+          const mod = await imageModules[path]();
+          images.value.push(mod.default);
+        }
+      } catch (error) {
+        console.error("Error loading images:", error);
+      }
+      break;
+    case "/CameraPictures/2007/October/":
+      console.log(props.photosUrl);
+      try {
+        const imageModules = import.meta.glob(
+          "../assets/Pictures/CameraPictures/2007/October/*.(png|jpg|jpeg|gif|svg)",
+          {
+            eager: false, // lazy loading for better performance
+          },
+        );
+
+        for (const path in imageModules) {
+          const mod = await imageModules[path]();
+          images.value.push(mod.default);
+        }
+      } catch (error) {
+        console.error("Error loading images:", error);
+      }
+      break;
+    case "/CameraPictures/2007/November/":
+      console.log(props.photosUrl);
+      try {
+        const imageModules = import.meta.glob(
+          "../assets/Pictures/CameraPictures/2007/November/*.(png|jpg|jpeg|gif|svg)",
+          {
+            eager: false, // lazy loading for better performance
+          },
+        );
+
+        for (const path in imageModules) {
+          const mod = await imageModules[path]();
+          images.value.push(mod.default);
+        }
+      } catch (error) {
+        console.error("Error loading images:", error);
+      }
+      break;
+    case "/CameraPictures/2007/December/":
+      console.log(props.photosUrl);
+      try {
+        const imageModules = import.meta.glob(
+          "../assets/Pictures/CameraPictures/2007/December/*.(png|jpg|jpeg|gif|svg)",
+          {
+            eager: false, // lazy loading for better performance
+          },
+        );
+
+        for (const path in imageModules) {
+          const mod = await imageModules[path]();
+          images.value.push(mod.default);
+        }
+      } catch (error) {
+        console.error("Error loading images:", error);
+      }
+      break;
+      case "/CameraPictures/2008/January/":
+      console.log(props.photosUrl);
+      try {
+        const imageModules = import.meta.glob(
+          "../assets/Pictures/CameraPictures/2008/January/*.(png|jpg|jpeg|gif|svg)",
+          {
+            eager: false, // lazy loading for better performance
+          },
+        );
+
+        for (const path in imageModules) {
+          const mod = await imageModules[path]();
+          images.value.push(mod.default);
+        }
+      } catch (error) {
+        console.error("Error loading images:", error);
+      }
+      break;
+    case "/CameraPictures/2008/February/":
+      console.log(props.photosUrl);
+      try {
+        const imageModules = import.meta.glob(
+          "../assets/Pictures/CameraPictures/2008/February/*.(png|jpg|jpeg|gif|svg)",
+          {
+            eager: false, // lazy loading for better performance
+          },
+        );
+
+        for (const path in imageModules) {
+          const mod = await imageModules[path]();
+          images.value.push(mod.default);
+        }
+      } catch (error) {
+        console.error("Error loading images:", error);
+      }
+      break;
+    case "/CameraPictures/2008/March/":
+      console.log(props.photosUrl);
+      try {
+        const imageModules = import.meta.glob(
+          "../assets/Pictures/CameraPictures/2008/March/*.(png|jpg|jpeg|gif|svg)",
+          {
+            eager: false, // lazy loading for better performance
+          },
+        );
+
+        for (const path in imageModules) {
+          const mod = await imageModules[path]();
+          images.value.push(mod.default);
+        }
+      } catch (error) {
+        console.error("Error loading images:", error);
+      }
+      break;
+    case "/CameraPictures/2008/April/":
+      console.log(props.photosUrl);
+      try {
+        const imageModules = import.meta.glob(
+          "../assets/Pictures/CameraPictures/2008/April/*.(png|jpg|jpeg|gif|svg)",
+          {
+            eager: false, // lazy loading for better performance
+          },
+        );
+
+        for (const path in imageModules) {
+          const mod = await imageModules[path]();
+          images.value.push(mod.default);
+        }
+      } catch (error) {
+        console.error("Error loading images:", error);
+      }
+      break;
+    case "/CameraPictures/2008/May/":
+      console.log(props.photosUrl);
+      try {
+        const imageModules = import.meta.glob(
+          "../assets/Pictures/CameraPictures/2008/May/*.(png|jpg|jpeg|gif|svg)",
+          {
+            eager: false, // lazy loading for better performance
+          },
+        );
+
+        for (const path in imageModules) {
+          const mod = await imageModules[path]();
+          images.value.push(mod.default);
+        }
+      } catch (error) {
+        console.error("Error loading images:", error);
+      }
+      break;
+    case "/CameraPictures/2008/June/":
+      console.log(props.photosUrl);
+      try {
+        const imageModules = import.meta.glob(
+          "../assets/Pictures/CameraPictures/2008/June/*.(png|jpg|jpeg|gif|svg)",
+          {
+            eager: false, // lazy loading for better performance
+          },
+        );
+
+        for (const path in imageModules) {
+          const mod = await imageModules[path]();
+          images.value.push(mod.default);
+        }
+      } catch (error) {
+        console.error("Error loading images:", error);
+      }
+      break;
+    case "/CameraPictures/2008/July/":
+      console.log(props.photosUrl);
+      try {
+        const imageModules = import.meta.glob(
+          "../assets/Pictures/CameraPictures/2008/July/*.(png|jpg|jpeg|gif|svg)",
+          {
+            eager: false, // lazy loading for better performance
+          },
+        );
+
+        for (const path in imageModules) {
+          const mod = await imageModules[path]();
+          images.value.push(mod.default);
+        }
+      } catch (error) {
+        console.error("Error loading images:", error);
+      }
+      break;
+    case "/CameraPictures/2008/August/":
+      console.log(props.photosUrl);
+      try {
+        const imageModules = import.meta.glob(
+          "../assets/Pictures/CameraPictures/2008/August/*.(png|jpg|jpeg|gif|svg)",
+          {
+            eager: false, // lazy loading for better performance
+          },
+        );
+
+        for (const path in imageModules) {
+          const mod = await imageModules[path]();
+          images.value.push(mod.default);
+        }
+      } catch (error) {
+        console.error("Error loading images:", error);
+      }
+      break;
+    case "/CameraPictures/2008/September/":
+      console.log(props.photosUrl);
+      try {
+        const imageModules = import.meta.glob(
+          "../assets/Pictures/CameraPictures/2008/September/*.(png|jpg|jpeg|gif|svg)",
+          {
+            eager: false, // lazy loading for better performance
+          },
+        );
+
+        for (const path in imageModules) {
+          const mod = await imageModules[path]();
+          images.value.push(mod.default);
+        }
+      } catch (error) {
+        console.error("Error loading images:", error);
+      }
+      break;
+    case "/CameraPictures/2008/October/":
+      console.log(props.photosUrl);
+      try {
+        const imageModules = import.meta.glob(
+          "../assets/Pictures/CameraPictures/2008/October/*.(png|jpg|jpeg|gif|svg)",
+          {
+            eager: false, // lazy loading for better performance
+          },
+        );
+
+        for (const path in imageModules) {
+          const mod = await imageModules[path]();
+          images.value.push(mod.default);
+        }
+      } catch (error) {
+        console.error("Error loading images:", error);
+      }
+      break;
+    case "/CameraPictures/2008/November/":
+      console.log(props.photosUrl);
+      try {
+        const imageModules = import.meta.glob(
+          "../assets/Pictures/CameraPictures/2008/November/*.(png|jpg|jpeg|gif|svg)",
+          {
+            eager: false, // lazy loading for better performance
+          },
+        );
+
+        for (const path in imageModules) {
+          const mod = await imageModules[path]();
+          images.value.push(mod.default);
+        }
+      } catch (error) {
+        console.error("Error loading images:", error);
+      }
+      break;
+    case "/CameraPictures/2008/December/":
+      console.log(props.photosUrl);
+      try {
+        const imageModules = import.meta.glob(
+          "../assets/Pictures/CameraPictures/2008/December/*.(png|jpg|jpeg|gif|svg)",
+          {
+            eager: false, // lazy loading for better performance
+          },
+        );
+
+        for (const path in imageModules) {
+          const mod = await imageModules[path]();
+          images.value.push(mod.default);
+        }
+      } catch (error) {
+        console.error("Error loading images:", error);
+      }
+      break;
+      case "/CameraPictures/2009/January/":
+      console.log(props.photosUrl);
+      try {
+        const imageModules = import.meta.glob(
+          "../assets/Pictures/CameraPictures/2009/January/*.(png|jpg|jpeg|gif|svg)",
+          {
+            eager: false, // lazy loading for better performance
+          },
+        );
+
+        for (const path in imageModules) {
+          const mod = await imageModules[path]();
+          images.value.push(mod.default);
+        }
+      } catch (error) {
+        console.error("Error loading images:", error);
+      }
+      break;
+    case "/CameraPictures/2009/February/":
+      console.log(props.photosUrl);
+      try {
+        const imageModules = import.meta.glob(
+          "../assets/Pictures/CameraPictures/2009/February/*.(png|jpg|jpeg|gif|svg)",
+          {
+            eager: false, // lazy loading for better performance
+          },
+        );
+
+        for (const path in imageModules) {
+          const mod = await imageModules[path]();
+          images.value.push(mod.default);
+        }
+      } catch (error) {
+        console.error("Error loading images:", error);
+      }
+      break;
+    case "/CameraPictures/2009/March/":
+      console.log(props.photosUrl);
+      try {
+        const imageModules = import.meta.glob(
+          "../assets/Pictures/CameraPictures/2009/March/*.(png|jpg|jpeg|gif|svg)",
+          {
+            eager: false, // lazy loading for better performance
+          },
+        );
+
+        for (const path in imageModules) {
+          const mod = await imageModules[path]();
+          images.value.push(mod.default);
+        }
+      } catch (error) {
+        console.error("Error loading images:", error);
+      }
+      break;
     default:
       console.warn("Unknown photosUrl:", props.photosUrl);
   }
