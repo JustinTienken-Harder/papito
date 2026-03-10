@@ -920,6 +920,404 @@ const homeNav = [
   {
     navText: "Ruby and Sam in Europe 2006",
     navUrl: "2006-Europe/",
+     nestedDir: [
+      {
+        navText: "Flottsboro",
+        navUrl: "Flottsboro/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/2006-Europe/Flottsboro/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Vasa",
+        navUrl: "Vasa/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/2006-Europe/Vasa/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Gamla Stan",
+        navUrl: "Gamla Stan/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/2006-Europe/Gamla Stan/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "stockholm",
+        navUrl: "stockholm/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/2006-Europe/stockholm/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Carl Milles",
+        navUrl: "Carl Milles/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/2006-Europe/Carl Milles/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Skansen",
+        navUrl: "Skansen/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/2006-Europe/Skansen/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Marstrand",
+        navUrl: "Marstrand/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/2006-Europe/Marstrand/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Oslo",
+        navUrl: "Oslo/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/2006-Europe/Oslo/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Fjords",
+        navUrl: "Fjords/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/2006-Europe/Fjords/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Inlandsbanan",
+        navUrl: "Inlandsbanan/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/2006-Europe/Inlandsbanan/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Mora",
+        navUrl: "Mora/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/2006-Europe/Mora/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "St. Petersburg",
+        navUrl: "St. Petersburg/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/2006-Europe/St. Petersburg/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "The Hermitage",
+        navUrl: "The Hermitage/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/2006-Europe/The Hermitage/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Tallinn Estonia",
+        navUrl: "Tallinn Estonia/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/2006-Europe/Tallinn Estonia/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Segulda",
+        navUrl: "Segulda/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/2006-Europe/Segulda/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Riga Latvia",
+        navUrl: "Riga Latvia/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/2006-Europe/Riga Latvia/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Augustow Poland",
+        navUrl: "Augustow Poland/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/2006-Europe/Augustow Poland/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Ketrzyn Poland",
+        navUrl: "Ketrzyn Poland/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/2006-Europe/Ketrzyn Poland/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Wolfsschanze Hitler's Lair",
+        navUrl: "Wolfsschanze Hitler's Lair/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/2006-Europe/Wolfsschanze Hitler's Lair/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Gdansk Poland",
+        navUrl: "Gdansk Poland/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/2006-Europe/Gdansk Poland/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Lublin-Majdanek",
+        navUrl: "Lublin-Majdanek/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/2006-Europe/Lublin-Majdanek/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Krakow Poland",
+        navUrl: "Krakow Poland/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/2006-Europe/Krakow Poland/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Auschwitz-Birkenau",
+        navUrl: "Auschwitz-Birkenau/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/2006-Europe/Auschwitz-Birkenau/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Schindler's Factory",
+        navUrl: "Schindler's Factory/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/2006-Europe/Schindler's Factory/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Krakow Ghetto",
+        navUrl: "Krakow Ghetto/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/2006-Europe/Krakow Ghetto/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Vienna Austria",
+        navUrl: "Vienna Austria/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/2006-Europe/Vienna Austria/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Italy Trieste Miramar",
+        navUrl: "Italy Trieste Miramar/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/2006-Europe/Italy Trieste Miramar/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Italy Mestre Venice",
+        navUrl: "Italy Mestre Venice/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/2006-Europe/Italy Mestre Venice/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Carnate Famiglia Taglialegne",
+        navUrl: "Carnate Famiglia Taglialegne/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/2006-Europe/Carnate Famiglia Taglialegne/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Lyon France",
+        navUrl: "Lyon France/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/2006-Europe/Lyon France/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Limoges France",
+        navUrl: "Limoges France/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/2006-Europe/Limoges France/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Oradoure Sur Glane",
+        navUrl: "Oradoure Sur Glane/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/2006-Europe/Oradoure Sur Glane/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Lourdes",
+        navUrl: "Lourdes/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/2006-Europe/Lourdes/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Pamplona",
+        navUrl: "Pamplona/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/2006-Europe/Pamplona/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Madrid",
+        navUrl: "Madrid/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/2006-Europe/Madrid/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Automobiles",
+        navUrl: "Automobiles/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/2006-Europe/Automobiles/",
+            navBase: true,
+          },
+        ],
+      },
+     ],
   },
   {
     navText: "Ruby in Sweden 2006",

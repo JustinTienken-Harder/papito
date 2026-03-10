@@ -67,7 +67,7 @@ onUnmounted(() => {
   text-align: center;
   color: $color-primary-dark;
   width: 100vw;
-  height: 140vh;
+  height: 210vh;
   box-sizing: border-box;
   padding: 0;
   margin: 0;

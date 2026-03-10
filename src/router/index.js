@@ -701,6 +701,20 @@ const router = createRouter({
         photosUrl: homeNav[1].nestedDir[7].nestedDir[2].nestedDir[0].navUrl,
       }
     },
+    {
+      path: "/2006-Europe/",
+      name: "Ruby and Sam in Europe 2006",
+      component: LinkList,
+      props: { navData: homeNav[3].nestedDir }
+    },
+    {
+      path: "/2006-Europe/Flottsboro/",
+      name: "Flottsboro",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[3].nestedDir[0].nestedDir[0].navUrl,
+      }
+    },
   ],
 });
 
