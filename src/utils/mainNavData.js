@@ -955,12 +955,12 @@ const homeNav = [
         ],
       },
       {
-        navText: "stockholm",
-        navUrl: "stockholm/",
+        navText: "Stockholm",
+        navUrl: "Stockholm/",
         navBase: false,
         nestedDir: [
           {
-            navUrl: "/2006-Europe/stockholm/",
+            navUrl: "/2006-Europe/Stockholm/",
             navBase: true,
           },
         ],
@@ -1043,12 +1043,12 @@ const homeNav = [
         ],
       },
       {
-        navText: "St. Petersburg",
-        navUrl: "St. Petersburg/",
+        navText: "St Petersburg",
+        navUrl: "St Petersburg/",
         navBase: false,
         nestedDir: [
           {
-            navUrl: "/2006-Europe/St. Petersburg/",
+            navUrl: "/2006-Europe/St Petersburg/",
             navBase: true,
           },
         ],
@@ -1164,12 +1164,12 @@ const homeNav = [
         ],
       },
       {
-        navText: "Auschwitz-Birkenau",
-        navUrl: "Auschwitz-Birkenau/",
+        navText: "Auschwitz Birkenau",
+        navUrl: "Auschwitz Birkenau/",
         navBase: false,
         nestedDir: [
           {
-            navUrl: "/2006-Europe/Auschwitz-Birkenau/",
+            navUrl: "/2006-Europe/Auschwitz Birkenau/",
             navBase: true,
           },
         ],

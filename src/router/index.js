@@ -715,6 +715,287 @@ const router = createRouter({
         photosUrl: homeNav[3].nestedDir[0].nestedDir[0].navUrl,
       }
     },
+    {
+      path: "/2006-Europe/Vasa/",
+      name: "Vasa",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[3].nestedDir[1].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/2006-Europe/Gamla Stan/",
+      name: "Gamla Stan",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[3].nestedDir[2].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/2006-Europe/Stockholm/",
+      name: "Stockholm",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[3].nestedDir[3].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/2006-Europe/Carl Milles/",
+      name: "Carl Milles",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[3].nestedDir[4].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/2006-Europe/Skansen/",
+      name: "Skansen",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[3].nestedDir[5].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/2006-Europe/Marstrand/",
+      name: "Marstrand",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[3].nestedDir[6].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/2006-Europe/Oslo/",
+      name: "Oslo",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[3].nestedDir[7].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/2006-Europe/Fjords/",
+      name: "Fjords",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[3].nestedDir[8].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/2006-Europe/Inlandsbanan/",
+      name: "Inlandsbanan",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[3].nestedDir[9].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/2006-Europe/Mora/",
+      name: "Mora",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[3].nestedDir[10].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/2006-Europe/St Petersburg/",
+      name: "St Petersburg",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[3].nestedDir[11].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/2006-Europe/The Hermitage/",
+      name: "The Hermitage",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[3].nestedDir[12].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/2006-Europe/Tallinn Estonia/",
+      name: "Tallinn Estonia",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[3].nestedDir[13].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/2006-Europe/Segulda/",
+      name: "Segulda",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[3].nestedDir[14].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/2006-Europe/Riga Latvia/",
+      name: "Riga Latvia",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[3].nestedDir[15].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/2006-Europe/Augustow Poland/",
+      name: "Augustow Poland",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[3].nestedDir[16].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/2006-Europe/ketrzyn Poland/",
+      name: "ketrzyn Poland",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[3].nestedDir[17].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/2006-Europe/Wolfsschanze Hitler's Lair/",
+      name: "Wolfsschanze Hitler's Lair",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[3].nestedDir[18].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/2006-Europe/Gdansk Poland/",
+      name: "Gdansk Poland",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[3].nestedDir[19].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/2006-Europe/Lublin-Majdanek/",
+      name: "Lublin-Majdanek",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[3].nestedDir[20].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/2006-Europe/Krakow Poland/",
+      name: "Krakow Poland",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[3].nestedDir[21].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/2006-Europe/Auschwitz Birkenau/",
+      name: "Auschwitz Birkenau",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[3].nestedDir[22].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/2006-Europe/Schindler's Factory/",
+      name: "Schindler's Factory",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[3].nestedDir[23].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/2006-Europe/Krakow Ghetto/",
+      name: "Krakow Ghetto",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[3].nestedDir[24].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/2006-Europe/Vienna Austria/",
+      name: "Vienna Austria",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[3].nestedDir[25].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/2006-Europe/Italy Trieste Miramar/",
+      name: "Italy Trieste Miramar",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[3].nestedDir[26].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/2006-Europe/Italy Mestre Venice/",
+      name: "Italy Mestre Venice",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[3].nestedDir[27].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/2006-Europe/Carnate Famiglia Taglialegne/",
+      name: "Carnate Famiglia Taglialegne",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[3].nestedDir[28].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/2006-Europe/Lyon France/",
+      name: "Lyon France",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[3].nestedDir[29].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/2006-Europe/Limoges France/",
+      name: "Limoges France",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[3].nestedDir[30].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/2006-Europe/Oradoure Sur Glane/",
+      name: "Oradoure Sur Glane",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[3].nestedDir[31].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/2006-Europe/Lourdes/",
+      name: "Lourdes",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[3].nestedDir[32].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/2006-Europe/Pamplona/",
+      name: "Pamplona",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[3].nestedDir[33].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/2006-Europe/Madrid/",
+      name: "Madrid",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[3].nestedDir[34].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/2006-Europe/Automobiles/",
+      name: "Automobiles",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[3].nestedDir[35].nestedDir[0].navUrl,
+      }
+    },
+    
   ],
 });
 
