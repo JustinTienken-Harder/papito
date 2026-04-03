@@ -1319,10 +1319,44 @@ const homeNav = [
       },
      ],
   },
-  {
-    navText: "Ruby in Sweden 2006",
+   {
+    navText: "Ruby in Sweden2006",
     navUrl: "2006-05Ruby/",
-    navBase: true,
+     nestedDir: [
+      {
+        navText: "Dan's Pix",
+        navUrl: "Dan's Pix/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/2006-05Ruby/Dan's Pix/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Gunnar's Photos",
+        navUrl: "Gunnar's Photos/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/2006-05Ruby/Gunnar's Photos/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Ruby's Pix",
+        navUrl: "Ruby's Pix/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/2006-05Ruby/Ruby's Pix/",
+            navBase: true,
+          },
+        ],
+      },
+     ],
   },
   {
     navText: "Ruby's Christmas 2005",

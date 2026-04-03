@@ -2063,25 +2063,79 @@ case "/CameraPictures/2005/January/":
         console.error("Error loading images:", error);
       }
       break;
-    case "/2006-Europe/Automobiles/":
-      console.log(props.photosUrl);
-      try {
-        const imageModules = import.meta.glob(
-          "../assets/Pictures/2006-Europe/Automobiles/*.(png|jpg|jpeg|gif|svg)",
-          {
-            eager: false, // lazy loading for better performance
-          },
-        );
-
-        for (const path in imageModules) {
-          const mod = await imageModules[path]();
-          images.value.push(mod.default);
+      case "/2006-Europe/Automobiles/":
+        console.log(props.photosUrl);
+        try {
+          const imageModules = import.meta.glob(
+            "../assets/Pictures/2006-Europe/Automobiles/*.(png|jpg|jpeg|gif|svg)",
+            {
+              eager: false, // lazy loading for better performance
+            },
+          );
+  
+          for (const path in imageModules) {
+            const mod = await imageModules[path]();
+            images.value.push(mod.default);
+          }
+        } catch (error) {
+          console.error("Error loading images:", error);
         }
-      } catch (error) {
-        console.error("Error loading images:", error);
-      }
-      break;
-    default:
+        break;
+      case "/2006-05Ruby/Dan's Pix/":
+        console.log(props.photosUrl);
+        try {
+          const imageModules = import.meta.glob(
+            "../assets/Pictures/2006-05Ruby/Dan's Pix/*.(png|jpg|jpeg|gif|svg)",
+            {
+              eager: false, // lazy loading for better performance
+            },
+          );
+  
+          for (const path in imageModules) {
+            const mod = await imageModules[path]();
+            images.value.push(mod.default);
+          }
+        } catch (error) {
+          console.error("Error loading images:", error);
+        }
+        break;
+      case "/2006-05Ruby/Gunnar's Photos/":
+        console.log(props.photosUrl);
+        try {
+          const imageModules = import.meta.glob(
+            "../assets/Pictures/2006-05Ruby/Gunnar's Photos/*.(png|jpg|jpeg|gif|svg)",
+            {
+              eager: false, // lazy loading for better performance
+            },
+          );
+  
+          for (const path in imageModules) {
+            const mod = await imageModules[path]();
+            images.value.push(mod.default);
+          }
+        } catch (error) {
+          console.error("Error loading images:", error);
+        }
+        break;
+      case "/2006-05Ruby/Ruby's Pix/":
+        console.log(props.photosUrl);
+        try {
+          const imageModules = import.meta.glob(
+            "../assets/Pictures/2006-05Ruby/Ruby's Pix/*.(png|jpg|jpeg|gif|svg)",
+            {
+              eager: false, // lazy loading for better performance
+            },
+          );
+  
+          for (const path in imageModules) {
+            const mod = await imageModules[path]();
+            images.value.push(mod.default);
+          }
+        } catch (error) {
+          console.error("Error loading images:", error);
+        }
+        break;
+      default:
       console.warn("Unknown photosUrl:", props.photosUrl);
   }
 });
