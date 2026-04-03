@@ -995,6 +995,36 @@ const router = createRouter({
         photosUrl: homeNav[3].nestedDir[35].nestedDir[0].navUrl,
       }
     },
+    {
+      path: "/2006-05Ruby/",
+      name: "Ruby in Sweden2006",
+      component: LinkList,
+      props: { navData: homeNav[4].nestedDir }
+    },
+    {
+      path: "/2006-05Ruby/Dan's Pix/",
+      name: "Dan's Pix",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[4].nestedDir[0].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/2006-05Ruby/Gunnar's Photos/",
+      name: "Gunnar's Photos",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[4].nestedDir[1].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/2006-05Ruby/Ruby's Pix/",
+      name: "Ruby's Pix",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[4].nestedDir[2].nestedDir[0].navUrl,
+      }
+    },
     
   ],
 });
