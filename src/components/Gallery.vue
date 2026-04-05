@@ -2351,6 +2351,42 @@ case "/CameraPictures/2005/January/":
           console.error("Error loading images:", error);
         }
         break;
+         case "/VidPics/":
+        console.log(props.photosUrl);
+        try {
+          const imageModules = import.meta.glob(
+            "../assets/Pictures/VidPics/*.(png|jpg|jpeg|gif|svg)",
+            {
+              eager: false, // lazy loading for better performance
+            },
+          );
+  
+          for (const path in imageModules) {
+            const mod = await imageModules[path]();
+            images.value.push(mod.default);
+          }
+        } catch (error) {
+          console.error("Error loading images:", error);
+        }
+        break;
+         case "/pano/":
+        console.log(props.photosUrl);
+        try {
+          const imageModules = import.meta.glob(
+            "../assets/Pictures/pano/*.(png|jpg|jpeg|gif|svg)",
+            {
+              eager: false, // lazy loading for better performance
+            },
+          );
+  
+          for (const path in imageModules) {
+            const mod = await imageModules[path]();
+            images.value.push(mod.default);
+          }
+        } catch (error) {
+          console.error("Error loading images:", error);
+        }
+        break;
       default:
       console.warn("Unknown photosUrl:", props.photosUrl);
   }
