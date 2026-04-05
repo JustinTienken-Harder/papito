@@ -1025,6 +1025,108 @@ const router = createRouter({
         photosUrl: homeNav[4].nestedDir[2].nestedDir[0].navUrl,
       }
     },
+    {
+      path: "/Ruby's_Christmas_2005/",
+      name: "Ruby's Christmas 2005",
+      component: LinkList,
+      props: { navData: homeNav[5].nestedDir }
+    },
+    {
+      path: "/Ruby's_Christmas_2005/Bejarano/",
+      name: "Bejarano",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[5].nestedDir[0].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/Ruby's_Christmas_2005/Berta/",
+      name: "Berta",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[5].nestedDir[1].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/Ruby's_Christmas_2005/Buga_Amparo/",
+      name: "Buga Amparo",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[5].nestedDir[2].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/Ruby's_Christmas_2005/Buga_Nena/",
+      name: "Buga Nena",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[5].nestedDir[3].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/Ruby's_Christmas_2005/Buga_Pacho/",
+      name: "Buga Pacho",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[5].nestedDir[4].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/Ruby's_Christmas_2005/Cerimonia_Grado_Y_Happy_Birthday_Eliza/",
+      name: "Cerimonia Grado Y Happy Birthday Eliza",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[5].nestedDir[5].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/Ruby's_Christmas_2005/Leonor/",
+      name: "Leonor",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[5].nestedDir[6].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/Ruby's_Christmas_2005/Medellin/",
+      name: "Medellin",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[5].nestedDir[7].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/Ruby's_Christmas_2005/Paseo_Holguin/",
+      name: "Paseo Holguin",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[5].nestedDir[8].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/Ruby's_Christmas_2005/Reunion_de_Grado/",
+      name: "Reunion de Grado",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[5].nestedDir[9].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/Ruby's_Christmas_2005/Semana_Santa/",
+      name: "Semana Santa",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[5].nestedDir[10].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/Ruby's_Christmas_2005/Christmas_San_Diego/",
+      name: "Christmas San Diego",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[5].nestedDir[11].nestedDir[0].navUrl,
+      }
+    },
     
   ],
 });
