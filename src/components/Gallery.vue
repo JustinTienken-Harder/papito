@@ -2135,6 +2135,222 @@ case "/CameraPictures/2005/January/":
           console.error("Error loading images:", error);
         }
         break;
+         case "/Ruby's_Christmas_2005/Bejarano/":
+        console.log(props.photosUrl);
+        try {
+          const imageModules = import.meta.glob(
+            "../assets/Pictures/Ruby's_Christmas_2005/Bejarano/*.(png|jpg|jpeg|gif|svg)",
+            {
+              eager: false, // lazy loading for better performance
+            },
+          );
+  
+          for (const path in imageModules) {
+            const mod = await imageModules[path]();
+            images.value.push(mod.default);
+          }
+        } catch (error) {
+          console.error("Error loading images:", error);
+        }
+        break;
+         case "/Ruby's_Christmas_2005/Berta/":
+        console.log(props.photosUrl);
+        try {
+          const imageModules = import.meta.glob(
+            "../assets/Pictures/Ruby's_Christmas_2005/Berta/*.(png|jpg|jpeg|gif|svg)",
+            {
+              eager: false, // lazy loading for better performance
+            },
+          );
+  
+          for (const path in imageModules) {
+            const mod = await imageModules[path]();
+            images.value.push(mod.default);
+          }
+        } catch (error) {
+          console.error("Error loading images:", error);
+        }
+        break;
+         case "/Ruby's_Christmas_2005/Buga_Amparo/":
+        console.log(props.photosUrl);
+        try {
+          const imageModules = import.meta.glob(
+            "../assets/Pictures/Ruby's_Christmas_2005/Buga_Amparo/*.(png|jpg|jpeg|gif|svg)",
+            {
+              eager: false, // lazy loading for better performance
+            },
+          );
+  
+          for (const path in imageModules) {
+            const mod = await imageModules[path]();
+            images.value.push(mod.default);
+          }
+        } catch (error) {
+          console.error("Error loading images:", error);
+        }
+        break;
+         case "/Ruby's_Christmas_2005/Buga_Nena/":
+        console.log(props.photosUrl);
+        try {
+          const imageModules = import.meta.glob(
+            "../assets/Pictures/Ruby's_Christmas_2005/Buga_Nena/*.(png|jpg|jpeg|gif|svg)",
+            {
+              eager: false, // lazy loading for better performance
+            },
+          );
+  
+          for (const path in imageModules) {
+            const mod = await imageModules[path]();
+            images.value.push(mod.default);
+          }
+        } catch (error) {
+          console.error("Error loading images:", error);
+        }
+        break;
+         case "/Ruby's_Christmas_2005/Buga_Pacho/":
+        console.log(props.photosUrl);
+        try {
+          const imageModules = import.meta.glob(
+            "../assets/Pictures/Ruby's_Christmas_2005/Buga_Pacho/*.(png|jpg|jpeg|gif|svg)",
+            {
+              eager: false, // lazy loading for better performance
+            },
+          );
+  
+          for (const path in imageModules) {
+            const mod = await imageModules[path]();
+            images.value.push(mod.default);
+          }
+        } catch (error) {
+          console.error("Error loading images:", error);
+        }
+        break;
+         case "/Ruby's_Christmas_2005/Cerimonia_Grado_Y_Happy_Birthday_Eliza/":
+        console.log(props.photosUrl);
+        try {
+          const imageModules = import.meta.glob(
+            "../assets/Pictures/Ruby's_Christmas_2005/Cerimonia_Grado_Y_Happy_Birthday_Eliza/*.(png|jpg|jpeg|gif|svg)",
+            {
+              eager: false, // lazy loading for better performance
+            },
+          );
+  
+          for (const path in imageModules) {
+            const mod = await imageModules[path]();
+            images.value.push(mod.default);
+          }
+        } catch (error) {
+          console.error("Error loading images:", error);
+        }
+        break;
+         case "/Ruby's_Christmas_2005/Leonor/":
+        console.log(props.photosUrl);
+        try {
+          const imageModules = import.meta.glob(
+            "../assets/Pictures/Ruby's_Christmas_2005/Leonor/*.(png|jpg|jpeg|gif|svg)",
+            {
+              eager: false, // lazy loading for better performance
+            },
+          );
+  
+          for (const path in imageModules) {
+            const mod = await imageModules[path]();
+            images.value.push(mod.default);
+          }
+        } catch (error) {
+          console.error("Error loading images:", error);
+        }
+        break;
+         case "/Ruby's_Christmas_2005/Medellin/":
+        console.log(props.photosUrl);
+        try {
+          const imageModules = import.meta.glob(
+            "../assets/Pictures/Ruby's_Christmas_2005/Medellin/*.(png|jpg|jpeg|gif|svg)",
+            {
+              eager: false, // lazy loading for better performance
+            },
+          );
+  
+          for (const path in imageModules) {
+            const mod = await imageModules[path]();
+            images.value.push(mod.default);
+          }
+        } catch (error) {
+          console.error("Error loading images:", error);
+        }
+        break;
+         case "/Ruby's_Christmas_2005/Paseo_Holguin/":
+        console.log(props.photosUrl);
+        try {
+          const imageModules = import.meta.glob(
+            "../assets/Pictures/Ruby's_Christmas_2005/Paseo_Holguin/*.(png|jpg|jpeg|gif|svg)",
+            {
+              eager: false, // lazy loading for better performance
+            },
+          );
+  
+          for (const path in imageModules) {
+            const mod = await imageModules[path]();
+            images.value.push(mod.default);
+          }
+        } catch (error) {
+          console.error("Error loading images:", error);
+        }
+        break;
+         case "/Ruby's_Christmas_2005/Reunion_de_Grado/":
+        console.log(props.photosUrl);
+        try {
+          const imageModules = import.meta.glob(
+            "../assets/Pictures/Ruby's_Christmas_2005/Reunion_de_Grado/*.(png|jpg|jpeg|gif|svg)",
+            {
+              eager: false, // lazy loading for better performance
+            },
+          );
+  
+          for (const path in imageModules) {
+            const mod = await imageModules[path]();
+            images.value.push(mod.default);
+          }
+        } catch (error) {
+          console.error("Error loading images:", error);
+        }
+        break;
+         case "/Ruby's_Christmas_2005/Semana_Santa/":
+        console.log(props.photosUrl);
+        try {
+          const imageModules = import.meta.glob(
+            "../assets/Pictures/Ruby's_Christmas_2005/Semana_Santa/*.(png|jpg|jpeg|gif|svg)",
+            {
+              eager: false, // lazy loading for better performance
+            },
+          );
+  
+          for (const path in imageModules) {
+            const mod = await imageModules[path]();
+            images.value.push(mod.default);
+          }
+        } catch (error) {
+          console.error("Error loading images:", error);
+        }
+        break;
+         case "/Ruby's_Christmas_2005/Christmas_San_Diego/":
+        console.log(props.photosUrl);
+        try {
+          const imageModules = import.meta.glob(
+            "../assets/Pictures/Ruby's_Christmas_2005/Christmas_San_Diego/*.(png|jpg|jpeg|gif|svg)",
+            {
+              eager: false, // lazy loading for better performance
+            },
+          );
+  
+          for (const path in imageModules) {
+            const mod = await imageModules[path]();
+            images.value.push(mod.default);
+          }
+        } catch (error) {
+          console.error("Error loading images:", error);
+        }
+        break;
       default:
       console.warn("Unknown photosUrl:", props.photosUrl);
   }

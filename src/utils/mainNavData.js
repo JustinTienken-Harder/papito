@@ -1320,7 +1320,7 @@ const homeNav = [
      ],
   },
    {
-    navText: "Ruby in Sweden2006",
+    navText: "Ruby in Sweden 2006",
     navUrl: "2006-05Ruby/",
      nestedDir: [
       {
@@ -1360,7 +1360,141 @@ const homeNav = [
   },
   {
     navText: "Ruby's Christmas 2005",
-    navUrl: "ruby/",
+    navUrl: "Ruby's_Christmas_2005/",
+     nestedDir: [
+      {
+        navText: "Bejarano",
+        navUrl: "Bejarano/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/Ruby's_Christmas_2005/Bejarano/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Berta",
+        navUrl: "Berta/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/Ruby's_Christmas_2005/Berta/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Buga Amparo",
+        navUrl: "Buga_Amparo/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/Ruby's_Christmas_2005/Buga_Amparo/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Buga Nena",
+        navUrl: "Buga_Nena/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/Ruby's_Christmas_2005/Buga_Nena/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Buga Pacho",
+        navUrl: "Buga_Pacho/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/Ruby's_Christmas_2005/Buga_Pacho/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Cerimonia Grado Y Happy Birthday Eliza",
+        navUrl: "Cerimonia_Grado_Y_Happy_Birthday_Eliza/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/Ruby's_Christmas_2005/Cerimonia_Grado_Y_Happy_Birthday_Eliza/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Leonor",
+        navUrl: "Leonor/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/Ruby's_Christmas_2005/Leonor/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Medellin",
+        navUrl: "Medellin/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/Ruby's_Christmas_2005/Medellin/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Paseo Holguin",
+        navUrl: "Paseo_Holguin/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/Ruby's_Christmas_2005/Paseo_Holguin/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Reunion de Grado",
+        navUrl: "Reunion_de_Grado/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/Ruby's_Christmas_2005/Reunion_de_Grado/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Semana Santa",
+        navUrl: "Semana_Santa/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/Ruby's_Christmas_2005/Semana_Santa/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Christmas San Diego",
+        navUrl: "Christmas_San_Diego/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/Ruby's_Christmas_2005/Christmas_San_Diego/",
+            navBase: true,
+          },
+        ],
+      },
+     ],
   },
   {
     navText: "Video Picture",
