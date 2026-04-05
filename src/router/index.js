@@ -1127,6 +1127,22 @@ const router = createRouter({
         photosUrl: homeNav[5].nestedDir[11].nestedDir[0].navUrl,
       }
     },
+    {
+      path: "/VidPics/",
+      name: "Video Pictures",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[6].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/pano/",
+      name: "Panoramics",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[7].nestedDir[0].navUrl,
+      }
+    },
     
   ],
 });

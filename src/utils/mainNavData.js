@@ -1498,11 +1498,23 @@ const homeNav = [
   },
   {
     navText: "Video Picture",
-    navUrl: "VidPics/200507/",
+    navUrl: "VidPics/",
+    nestedDir: [
+      {
+        navUrl: "/VidPics/",
+        navBase: true,
+      },
+    ],
   },
   {
     navText: "Panoramics",
-    navUrl: "Kpic/pano/",
+    navUrl: "pano/",
+    nestedDir: [
+      {
+        navUrl: "/pano/",
+        navBase: true,
+      },
+    ],
   },
   {
     navText: "Baja Trips",
