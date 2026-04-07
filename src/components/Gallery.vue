@@ -2387,6 +2387,60 @@ case "/CameraPictures/2005/January/":
           console.error("Error loading images:", error);
         }
         break;
+         case "/Baja_Trips/First_Trip/":
+        console.log(props.photosUrl);
+        try {
+          const imageModules = import.meta.glob(
+            "../assets/Pictures/Baja_Trips/First_Trip/*.(png|jpg|jpeg|gif|svg)",
+            {
+              eager: false, // lazy loading for better performance
+            },
+          );
+  
+          for (const path in imageModules) {
+            const mod = await imageModules[path]();
+            images.value.push(mod.default);
+          }
+        } catch (error) {
+          console.error("Error loading images:", error);
+        }
+        break;
+         case "/Baja_Trips/Second_Trip/":
+        console.log(props.photosUrl);
+        try {
+          const imageModules = import.meta.glob(
+            "../assets/Pictures/Baja_Trips/Second_Trip/*.(png|jpg|jpeg|gif|svg)",
+            {
+              eager: false, // lazy loading for better performance
+            },
+          );
+  
+          for (const path in imageModules) {
+            const mod = await imageModules[path]();
+            images.value.push(mod.default);
+          }
+        } catch (error) {
+          console.error("Error loading images:", error);
+        }
+        break;
+         case "/Baja_Trips/Third_Trip/":
+        console.log(props.photosUrl);
+        try {
+          const imageModules = import.meta.glob(
+            "../assets/Pictures/Baja_Trips/Third_Trip/*.(png|jpg|jpeg|gif|svg)",
+            {
+              eager: false, // lazy loading for better performance
+            },
+          );
+  
+          for (const path in imageModules) {
+            const mod = await imageModules[path]();
+            images.value.push(mod.default);
+          }
+        } catch (error) {
+          console.error("Error loading images:", error);
+        }
+        break;
       default:
       console.warn("Unknown photosUrl:", props.photosUrl);
   }

@@ -1143,6 +1143,36 @@ const router = createRouter({
         photosUrl: homeNav[7].nestedDir[0].navUrl,
       }
     },
+    {
+      path: "/Baja_Trips/",
+      name: "Baja Trips",
+      component: LinkList,
+      props: { navData: homeNav[8].nestedDir }
+    },
+    {
+      path: "/Baja_Trips/First_Trip/",
+      name: "First Trip",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[8].nestedDir[0].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/Baja_Trips/Second_Trip/",
+      name: "Second Trip",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[8].nestedDir[1].nestedDir[0].navUrl,
+      }
+    },
+    {
+      path: "/Baja_Trips/Third_Trip/",
+      name: "Third Trip",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[8].nestedDir[2].nestedDir[0].navUrl,
+      }
+    },
     
   ],
 });
