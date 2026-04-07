@@ -1516,9 +1516,44 @@ const homeNav = [
       },
     ],
   },
-  {
+   {
     navText: "Baja Trips",
-    navUrl: "Baja/",
+    navUrl: "Baja_Trips/",
+     nestedDir: [
+      {
+        navText: "First Trip",
+        navUrl: "First_Trip/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/Baja_Trips/First_Trip/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Second Trip",
+        navUrl: "Second_Trip/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/Baja_Trips/Second_Trip/",
+            navBase: true,
+          },
+        ],
+      },
+      {
+        navText: "Third Trip",
+        navUrl: "Third_Trip/",
+        navBase: false,
+        nestedDir: [
+          {
+            navUrl: "/Baja_Trips/Third_Trip/",
+            navBase: true,
+          },
+        ],
+      },
+    ],
   },
   {
     navText: "Colombia Scanned Pictures",
