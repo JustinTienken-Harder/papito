@@ -1576,8 +1576,14 @@ const homeNav = [
     ],
   },
   {
-    navText: "Favorites Scanned Pictures and Slides",
+    navText: "Favorite Scanned Pictures and Slides",
     navUrl: "Favorites/",
+    nestedDir: [
+      {
+        navUrl: "/Favorites/",
+        navBase: true,
+      },
+    ],
   },
 ];
 
