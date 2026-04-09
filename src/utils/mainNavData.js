@@ -1566,8 +1566,14 @@ const homeNav = [
     ],
   },
   {
-    navText: "Old Colombia Pictures",
+    navText: "Colombia Viejo",
     navUrl: "ColombiaViejo/",
+    nestedDir: [
+      {
+        navUrl: "/ColombiaViejo/",
+        navBase: true,
+      },
+    ],
   },
   {
     navText: "Favorites Scanned Pictures and Slides",
