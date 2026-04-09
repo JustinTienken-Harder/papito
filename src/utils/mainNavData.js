@@ -1558,6 +1558,12 @@ const homeNav = [
   {
     navText: "Colombia Scanned Pictures",
     navUrl: "Colombia/",
+    nestedDir: [
+      {
+        navUrl: "/Colombia/",
+        navBase: true,
+      },
+    ],
   },
   {
     navText: "Old Colombia Pictures",

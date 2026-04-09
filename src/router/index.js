@@ -1173,6 +1173,14 @@ const router = createRouter({
         photosUrl: homeNav[8].nestedDir[2].nestedDir[0].navUrl,
       }
     },
+    {
+      path: "/Colombia/",
+      name: "Colombia Scanned Pictures",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[9].nestedDir[0].navUrl,
+      }
+    },
     
   ],
 });
