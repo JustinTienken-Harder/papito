@@ -1189,6 +1189,14 @@ const router = createRouter({
         photosUrl: homeNav[10].nestedDir[0].navUrl,
       }
     },
+    {
+      path: "/Favorites/",
+      name: "Favorite Scanned Pictures and Slides",
+      component: Gallery,
+      props: {
+        photosUrl: homeNav[11].nestedDir[0].navUrl,
+      }
+    },
     
   ],
 });
