@@ -1,0 +1,15 @@
+[project]
+name = "papito-website"
+version = "0.1.0"
+description = "Default template for PDM package"
+authors = [
+    {name = "JustinTienken-Harder", email = "justinhardermsc@gmail.com"},
+]
+dependencies = ["beautifulsoup4>=4.14.3"]
+requires-python = "==3.11.*"
+readme = "README.md"
+license = {text = "MIT"}
+
+
+[tool.pdm]
+distribution = false

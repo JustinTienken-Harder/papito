@@ -1,0 +1,6 @@
+Alright, here's how it's going to work:
+
+1. Get all the paths to images in the entire repository. 
+2. Get the descriptions from the HTML version, else "" 
+3. Make a SHA of image to descriptions
+4. copy paste into a new repository.
