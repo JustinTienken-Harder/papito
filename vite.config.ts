@@ -20,6 +20,7 @@ export default defineConfig(({command}) => {
       '@': fileURLToPath(new URL('./src', import.meta.url))
     }
   },
-  base: command === 'serve' ? '/' : '/papito/',
+  base: '/'
+  // base: command === 'serve' ? '/' : '/papito/',
 }});
 
